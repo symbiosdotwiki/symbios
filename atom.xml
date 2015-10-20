@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Symbios.wiki]]></title>
-  <link href="http://symbios.wiki/atom.xml" rel="self"/>
-  <link href="http://symbios.wiki/"/>
-  <updated>2015-10-20T16:12:51-04:00</updated>
-  <id>http://symbios.wiki/</id>
+  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+  <link href="http://0.0.0.0:4000/"/>
+  <updated>2015-10-20T18:27:15-04:00</updated>
+  <id>http://0.0.0.0:4000/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
     
@@ -14,11 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Repeated Forms of Discontinuity Rotating in Place]]></title>
+    <link href="http://0.0.0.0:4000/video/Repeated-Forms/"/>
+    <updated>2015-10-20T00:00:00-04:00</updated>
+    <id>http://0.0.0.0:4000/video/Repeated-Forms</id>
+    <content type="html"><![CDATA[<p>In this piece I hoped to convey the failure of the futurists. Boccioni&rsquo;s &ldquo;Unique Froms of Continuity in Space&rdquo; is stuck in place rotating over itself instead of moving forward. The aesthetics are borrowed from the Vaporwave movement in order to convey the over-saturated and accelerationist demise of the Futurists.</p>
+
+<p>This piece was shown at the Tate Britain during their &ldquo;All Glitched Up&rdquo; show in November 2014.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/EsqgS-w19BY" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Isomov - Interference LP]]></title>
-    <link href="http://symbios.wiki/blog/2015/10/19/Interference/"/>
+    <link href="http://0.0.0.0:4000/audio/Interference/"/>
     <updated>2015-10-19T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/blog/2015/10/19/Interference</id>
-    <content type="html"><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F50449667&amp;"></iframe>
+    <id>http://0.0.0.0:4000/audio/Interference</id>
+    <content type="html"><![CDATA[<p>I am proud to present the debut album from Isomov. This album was heavily influenced by Isaac Asimov&rsquo;s <em>The Last Question</em> and Douglas Hofstadter&rsquo;s <em>Godel, Escher, Bach</em>.</p>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F50449667&amp;"></iframe>
 
 ]]></content>
   </entry>

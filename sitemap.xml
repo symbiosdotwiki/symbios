@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://nwaxiomatic.github.io/symbios/blog/archives/</loc>
+    <loc>http://0.0.0.0:4000/blog/2015/10/19/Interference/</loc>
+    <lastmod>2015-10-19T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://nwaxiomatic.github.io/symbios/</loc>
+    <loc>http://0.0.0.0:4000/sculpture/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/audio/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/code/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/blog/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/image/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/video/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://0.0.0.0:4000/</loc>
+    <lastmod>2015-10-20T15:42:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>

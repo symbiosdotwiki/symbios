@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-23T19:28:51-04:00</updated>
+  <updated>2015-10-23T19:45:22-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[SUGARQUOTE - Pop Cube Jingle]]></title>
-    <link href="http://symbios.wiki/auditory/Pop-Cube/"/>
+    <link href="http://symbios.wiki/aural/Pop-Cube/"/>
     <updated>2015-05-07T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/auditory/Pop-Cube</id>
+    <id>http://symbios.wiki/aural/Pop-Cube</id>
     <content type="html"><![CDATA[<p>Here is the Pop Cube Jingle Remix by SUGARQUOTE for PC Music&rsquo;s Pop Cube Competition.</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F204295213&amp;"></iframe>

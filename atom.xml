@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-24T17:26:23-04:00</updated>
+  <updated>2015-10-24T17:32:21-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[You Feel Perfect]]></title>
+    <link href="http://symbios.wiki/visual/You-Feel-Perfect/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/You-Feel-Perfect</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Virtual Kaleidoscope]]></title>
@@ -41,6 +50,24 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Plate]]></title>
+    <link href="http://symbios.wiki/visual/Plate/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Plate</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NJP]]></title>
+    <link href="http://symbios.wiki/visual/NJP/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/NJP</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Coffee]]></title>
     <link href="http://symbios.wiki/visual/Coffee/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
@@ -54,6 +81,15 @@
     <link href="http://symbios.wiki/visual/Bird/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Bird</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Beethoven Plays]]></title>
+    <link href="http://symbios.wiki/visual/Beethoven-Plays/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Beethoven-Plays</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

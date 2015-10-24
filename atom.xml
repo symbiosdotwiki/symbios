@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-24T16:16:40-04:00</updated>
+  <updated>2015-10-24T17:26:23-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Virtual Kaleidoscope]]></title>
+    <link href="http://symbios.wiki/visual/Virtual-Kaleidoscopes/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Virtual-Kaleidoscopes</id>
+    <content type="html"><![CDATA[<p>I created a few renders using models of kalediedoscopes as described in Don Doak&rsquo;s patent after reading <a href="http://www.waynesthisandthat.com/kaleidoscopes2.html">Wayne Schmidt&rsquo;s post</a> on kaleidoscopes. Below I have also included a few images of the pictures I took with a kaleidoscope and some EL wire for aesthetic experimenting.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Violin]]></title>
+    <link href="http://symbios.wiki/visual/Violin/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Violin</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tree]]></title>
+    <link href="http://symbios.wiki/visual/Tree/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Tree</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Coffee]]></title>
+    <link href="http://symbios.wiki/visual/Coffee/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Coffee</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bird]]></title>
+    <link href="http://symbios.wiki/visual/Bird/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Bird</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SUGARQUOTE - Pop Cube Jingle]]></title>
@@ -35,26 +80,6 @@
 <p>&nbsp; The piece first began as a series of self-referential images made on a computer with the help of generative algorithms and Photoshop. From these images, the goal was to physically manifest the piece as accurately as possible through whatever means necessary. This lead to the creation of five physical objects, and an augmented reality application. The augmented reality application is used to place a virtual object in the space, as well as to show a virtual representation of the piece.</p>
 
 <p>&nbsp; The piece requires the viewers to operate the augmented reality application to finish the production of the piece, and to add titles to the piece to mark their own participation in its creation. The use of multiple self-referential objects and the ability of the application to be used across multiple devices helps create a space which both absorbs the viewers and folds over itself. I hope this materialization pulls viewers in, both physically and mentally, and asks them to participate in the autonomy of the piece.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs" data-clearing>
-      <li><a class="th" href="https://farm1.staticflickr.com/730/22352874371_5423166ee8_b.jpg"><img src="https://farm1.staticflickr.com/730/22352874371_5423166ee8_q.jpg" alt="I_am_V1" title="I_am_V1"></a></li>
-      <li><a class="th" href="https://farm1.staticflickr.com/738/22316202396_1f38d3632b_b.jpg"><img src="https://farm1.staticflickr.com/738/22316202396_1f38d3632b_q.jpg" alt="I_am_P1" title="I_am_P1"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5760/22352878751_214e364685_b.jpg"><img src="https://farm6.staticflickr.com/5760/22352878751_214e364685_q.jpg" alt="I_am_P2" title="I_am_P2"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5763/22329217722_acbf67dba5_b.jpg"><img src="https://farm6.staticflickr.com/5763/22329217722_acbf67dba5_q.jpg" alt="I_am_P3" title="I_am_P3"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5683/22154199350_ddf37f2806_b.jpg"><img src="https://farm6.staticflickr.com/5683/22154199350_ddf37f2806_q.jpg" alt="I_am_KK1" title="I_am_KK1"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5715/22154483578_0d7c6d177c_b.jpg"><img src="https://farm6.staticflickr.com/5715/22154483578_0d7c6d177c_q.jpg" alt="I_am_KK2" title="I_am_KK2"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5734/22154484278_400cd98fe8_b.jpg"><img src="https://farm6.staticflickr.com/5734/22154484278_400cd98fe8_q.jpg" alt="I_am_AR3" title="I_am_AR3"></a></li>
-      <li><a class="th" href="https://farm1.staticflickr.com/752/22154201340_b3931989aa_b.jpg"><img src="https://farm1.staticflickr.com/752/22154201340_b3931989aa_q.jpg" alt="I_am_AR1" title="I_am_AR1"></a></li>
-      <li><a class="th" href="https://farm6.staticflickr.com/5822/22154484718_e1b8906519_b.jpg"><img src="https://farm6.staticflickr.com/5822/22154484718_e1b8906519_q.jpg" alt="I_am_AR2" title="I_am_AR2"></a></li>
-      <li><a class="th" href="https://farm1.staticflickr.com/612/22316164986_553877404a_b.jpg"><img src="https://farm1.staticflickr.com/612/22316164986_553877404a_q.jpg" alt="spacefullsquare" title="spacefullsquare"></a></li>
-      <li><a class="th" href="https://farm1.staticflickr.com/681/21721135003_ce57132997_b.jpg"><img src="https://farm1.staticflickr.com/681/21721135003_ce57132997_q.jpg" alt="outside" title="outside"></a></li>
-      <li><a class="th" href="https://farm1.staticflickr.com/585/22155372729_f5f5837f7e_b.jpg"><img src="https://farm1.staticflickr.com/585/22155372729_f5f5837f7e_q.jpg" alt="I_am_V4" title="I_am_V4"></a></li>
-    </ul>
-  </div>
-</div>
-
 ]]></content>
   </entry>
   
@@ -96,12 +121,9 @@
     <link href="http://symbios.wiki/visual/Repeated-Forms/"/>
     <updated>2014-11-08T00:00:00-05:00</updated>
     <id>http://symbios.wiki/visual/Repeated-Forms</id>
-    <content type="html"><![CDATA[<p>In this piece I hoped to convey the failure of the futurists. Boccioni&rsquo;s &ldquo;Unique Froms of Continuity in Space&rdquo; is stuck in place rotating over itself instead of moving forward. The aesthetics are borrowed from the Vaporwave movement in order to convey the over-saturated and accelerationist demise of the Futurists.</p>
+    <content type="html"><![CDATA[<p>&nbsp; &nbsp; In this piece I hoped to convey the failure of the futurists. Boccioni&rsquo;s &ldquo;Unique Froms of Continuity in Space&rdquo; is stuck in place rotating over itself instead of moving forward. The aesthetics are borrowed from the Vaporwave movement in order to convey the over-saturated and accelerationist demise of the Futurists.</p>
 
-<p>This piece was shown at the Tate Britain during their &ldquo;All Glitched Up&rdquo; show in November 2014.</p>
-
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/EsqgS-w19BY" allowfullscreen></iframe></div>
-
+<p>&nbsp; &nbsp; This piece was shown at the Tate Britain during their &ldquo;All Glitched Up&rdquo; show in November 2014.</p>
 ]]></content>
   </entry>
   

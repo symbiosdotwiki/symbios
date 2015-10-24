@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-24T17:46:34-04:00</updated>
+  <updated>2015-10-24T17:58:26-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -68,6 +68,24 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Lewitt]]></title>
+    <link href="http://symbios.wiki/visual/Lewitt/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Lewitt</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bezier]]></title>
+    <link href="http://symbios.wiki/visual/Grapes/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Grapes</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Coffee]]></title>
     <link href="http://symbios.wiki/visual/Coffee/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
@@ -81,6 +99,15 @@
     <link href="http://symbios.wiki/visual/Bird/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Bird</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bezier]]></title>
+    <link href="http://symbios.wiki/visual/Bezier/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Bezier</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

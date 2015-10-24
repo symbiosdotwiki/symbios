@@ -31,12 +31,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://symbios.wiki/visual/Lewitt/</loc>
+    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Grapes/</loc>
+    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/visual/Coffee/</loc>
     <lastmod>2015-10-22T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/Bird/</loc>
+    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Bezier/</loc>
     <lastmod>2015-10-22T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -72,43 +87,43 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2015-10-24T17:46:34-04:00</lastmod>
+    <lastmod>2015-10-24T17:58:26-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -34,8 +34,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
 
-    <link rel="stylesheet" href="/css/foundation.css">
     <link rel="stylesheet" href="/css/main.css">
+
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="http://symbios.wiki/js/vendor/html5shiv.min.js"></script>
@@ -287,21 +287,33 @@
 	</nav><!-- /.bottom-menu -->
 	<p class="copyright">&#169; 2015 <a href="http://symbios.wiki">Symbios.wiki</a>
 </footer>
-    </div>
-
-    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="/js/vendor/modernizr.js"></script>
-    <script src="/js/foundation/foundation.js"></script>
-    <script src="/js/foundation/foundation.clearing.js"></script>
-    <script src="/js/main.js"></script>
+      <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/venobox/venobox.min.js"></script>
+    <link rel="stylesheet" href="/venobox/venobox.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/foundation.css" type="text/css" media="screen" />
     <script>
-    $(document).foundation('clearing', 'reflow');
-    $(document.body).on("open.fndtn.clearing", function(event) {
-      $('#js-menu-trigger').hide();
-    }).on("closed.fndtn.clearing", function(event) {
-      $('#js-menu-trigger').show();
+$(document).ready(function(){
+
+    /* default settings */
+    $('.venobox').venobox(); 
+
+
+    /* custom settings */
+    $('.venobox_custom').venobox({
+        framewidth: '400px',        // default: ''
+        frameheight: '300px',       // default: ''
+        border: '10px',             // default: '0'
+        bgcolor: '#5dff5e',         // default: '#fff'
+        titleattr: 'data-title',    // default: 'title'
+        numeratio: true,            // default: false
+        infinigall: true            // default: false
     });
-  </script>
+
+    /* auto-open #firstlink on page load */
+    $("#firstlink").venobox().trigger('click');
+});
+</script>
+    </div>
 
   </body>
 

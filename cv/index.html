@@ -34,8 +34,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cleartype" content="on">
 
-    <link rel="stylesheet" href="/css/foundation.css">
     <link rel="stylesheet" href="/css/main.css">
+
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="http://symbios.wiki/js/vendor/html5shiv.min.js"></script>
@@ -140,7 +140,7 @@
 
 <h5><strong>Contact</strong></h5>
 
-<p><a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#115;&#121;&#x6d;&#98;&#x69;&#111;&#x73;&#64;&#115;&#121;&#109;&#x62;&#x69;&#111;&#115;&#46;&#x77;&#x69;&#x6b;&#x69;">&#115;&#121;&#109;&#98;&#x69;&#x6f;&#115;&#64;&#115;&#121;&#109;&#x62;&#x69;&#111;&#x73;&#46;&#119;&#105;&#107;&#105;</a></p>
+<p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x73;&#121;&#x6d;&#98;&#x69;&#x6f;&#115;&#64;&#115;&#x79;&#x6d;&#98;&#105;&#111;&#115;&#x2e;&#x77;&#105;&#x6b;&#x69;">&#x73;&#x79;&#x6d;&#98;&#105;&#111;&#115;&#x40;&#x73;&#x79;&#109;&#98;&#x69;&#x6f;&#115;&#46;&#x77;&#105;&#107;&#x69;</a></p>
 
 			</div><!-- /.page-content -->
 		</div class="archive-wrap"><!-- /.archive-wrap -->
@@ -159,21 +159,33 @@
 	</nav><!-- /.bottom-menu -->
 	<p class="copyright">&#169; 2015 <a href="http://symbios.wiki">Symbios.wiki</a>
 </footer>
-    </div>
-
-    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="/js/vendor/modernizr.js"></script>
-    <script src="/js/foundation/foundation.js"></script>
-    <script src="/js/foundation/foundation.clearing.js"></script>
-    <script src="/js/main.js"></script>
+      <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/venobox/venobox.min.js"></script>
+    <link rel="stylesheet" href="/venobox/venobox.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/foundation.css" type="text/css" media="screen" />
     <script>
-    $(document).foundation('clearing', 'reflow');
-    $(document.body).on("open.fndtn.clearing", function(event) {
-      $('#js-menu-trigger').hide();
-    }).on("closed.fndtn.clearing", function(event) {
-      $('#js-menu-trigger').show();
+$(document).ready(function(){
+
+    /* default settings */
+    $('.venobox').venobox(); 
+
+
+    /* custom settings */
+    $('.venobox_custom').venobox({
+        framewidth: '400px',        // default: ''
+        frameheight: '300px',       // default: ''
+        border: '10px',             // default: '0'
+        bgcolor: '#5dff5e',         // default: '#fff'
+        titleattr: 'data-title',    // default: 'title'
+        numeratio: true,            // default: false
+        infinigall: true            // default: false
     });
-  </script>
+
+    /* auto-open #firstlink on page load */
+    $("#firstlink").venobox().trigger('click');
+});
+</script>
+    </div>
 
   </body>
 

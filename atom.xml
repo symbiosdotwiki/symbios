@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-26T16:21:48-04:00</updated>
+  <updated>2015-10-26T21:02:05-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -140,6 +140,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[TV Caustics]]></title>
+    <link href="http://symbios.wiki/visual/TV-Caustics/"/>
+    <updated>2015-08-21T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/TV-Caustics</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[SUGARQUOTE - a Moment]]></title>
     <link href="http://symbios.wiki/aural/A-Moment/"/>
     <updated>2015-07-25T00:00:00-04:00</updated>
@@ -211,15 +220,6 @@
     <content type="html"><![CDATA[<p>&nbsp; &nbsp; In this piece I hoped to convey the failure of the futurists. Boccioni&rsquo;s &ldquo;Unique Froms of Continuity in Space&rdquo; is stuck in place rotating over itself instead of moving forward. The aesthetics are borrowed from the Vaporwave movement in order to convey the over-saturated and accelerationist demise of the Futurists.</p>
 
 <p>&nbsp; &nbsp; This piece was shown at the Tate Britain during their &ldquo;All Glitched Up&rdquo; show in November 2014.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Isomov - Interference LP]]></title>
-    <link href="http://symbios.wiki/aural/Interference/"/>
-    <updated>2014-08-19T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/aural/Interference</id>
-    <content type="html"><![CDATA[<p>I am proud to present the debut album Interference from Isomov. This album was heavily influenced by Isaac Asimov&rsquo;s <em>The Last Question</em> and Douglas Hofstadter&rsquo;s <em>Godel, Escher, Bach</em>.</p>
 ]]></content>
   </entry>
   

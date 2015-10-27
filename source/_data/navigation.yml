@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Visual
+  url: /visual/
+  excerpt:
+  image:
+
+- title: Aural
+  url: /aural/
+  excerpt:
+  image:
+
+- title: Physical
+  url: /physical/
+  excerpt:
+  image:
+
+- title: CV
+  url: /cv/
+  excerpt:
+  image:

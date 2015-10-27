@@ -2,12 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://symbios.wiki
+#url: http://0.0.0.0:4000
+title: Symbios.wiki
+author: Symbios
 simple_search: https://www.google.com/search
-description:
+description: "Welcome to symbios."
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +19,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /symbios/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -25,11 +28,37 @@ email:
 #    Jekyll & Plugins     #
 # ----------------------- #
 
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+# Site owner
+owner:
+  name: Symbios
+  web: http://symbios.wiki
+  email: symbioswiki@gmail.com
+  twitter: 
+  bio: "Computer artist."
+  avatar: bio-photo.jpg
+
+flickr:
+  cache_dir:       "./_cache/flickr"
+  api_key:          52c57d2259666d5d811235b9ae8a2c37
+  shared_secret:    d7fd1ddc8bfb00c2
+  access_token:     72157657759890213-0826b290ca82b521
+  access_secret:    0d4dbafc61004db1
+
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:categories/:title/
 source: source
-destination: public
+destination: public/symbios
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -40,12 +69,6 @@ rdiscount:
     - footnotes
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
-
-paginate: 10          # Posts per page on the blog index
-paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
-excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
-excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
@@ -64,10 +87,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: nwaxiomatic
 github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
+github_show_profile_link: flase
+github_skip_forks: false
 
 # Twitter
 twitter_user:
@@ -99,3 +122,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

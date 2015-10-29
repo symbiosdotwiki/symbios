@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-27T11:39:11-04:00</updated>
+  <updated>2015-10-29T02:24:41-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CMSTP]]></title>
+    <link href="http://symbios.wiki/visual/CMSTP/"/>
+    <updated>2015-10-29T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/CMSTP</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You Feel Perfect]]></title>
@@ -149,6 +158,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[MSTP Glitch]]></title>
+    <link href="http://symbios.wiki/visual/MSTP-Glitch/"/>
+    <updated>2015-08-21T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/MSTP-Glitch</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[SUGARQUOTE - a Moment]]></title>
     <link href="http://symbios.wiki/aural/A-Moment/"/>
     <updated>2015-07-25T00:00:00-04:00</updated>
@@ -176,50 +194,6 @@
 <p>&nbsp; The piece first began as a series of self-referential images made on a computer with the help of generative algorithms and Photoshop. From these images, the goal was to physically manifest the piece as accurately as possible through whatever means necessary. This lead to the creation of five physical objects, and an augmented reality application. The augmented reality application is used to place a virtual object in the space, as well as to show a virtual representation of the piece.</p>
 
 <p>&nbsp; The piece requires the viewers to operate the augmented reality application to finish the production of the piece, and to add titles to the piece to mark their own participation in its creation. The use of multiple self-referential objects and the ability of the application to be used across multiple devices helps create a space which both absorbs the viewers and folds over itself. I hope this materialization pulls viewers in, both physically and mentally, and asks them to participate in the autonomy of the piece.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Borromean Resistance - Piece 1]]></title>
-    <link href="http://symbios.wiki/physical/BR1/"/>
-    <updated>2014-11-09T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/physical/BR1</id>
-    <content type="html"><![CDATA[<p>&nbsp; Performance one proposed a simplified model of activism as feedback in a complex system. It was comprised of intermingled performances by the constructors (artists), the physical model, and the activist audience. The system used input from willing participants and the surrounding environmental variables to generate visual forms representative of the success or failure of the given collective aspiration. In most cases, the computer-generated output would reflect elements of both success and failure to mimic the reality of gradual social change. The audience was encouraged to engage in activism by plunging their hands into an interactive ice bucket. Both the number of participants and the commitment of each individual to the collective cause influenced the aesthetic composition of the system.</p>
-
-<p>&nbsp; Electronics inside the bucket recorded each contribution and communicated its duration and intensity to a computer located elsewhere in the physical space. The computer interpreted these input signals and iteratively produce three-dimensional visual forms corresponding to the amplitude and frequency of activist participation. In this way, both the number of participants and the commitment of each participating individual to the collective cause influenced the aesthetic composition of the system’s output.</p>
-
-<p>&nbsp; This piece was performed at Re-imagine Now in New York on November 8th, 2014. In addition to the performace, a paper was developed in order to present the results of the experiment.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5809/21798988404_6d66edac92_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5809/21798988404_6d66edac92_q.jpg" alt="borromean ii" title="borromean ii"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/632/22395744166_a9a6cb9d13_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/632/22395744166_a9a6cb9d13_q.jpg" alt="borromean i" title="borromean i"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5664/21800617353_cd8a5d258d_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5664/21800617353_cd8a5d258d_q.jpg" alt="DSC_0042" title="DSC_0042"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5801/21800616763_36c5ee7e73_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5801/21800616763_36c5ee7e73_q.jpg" alt="DSC_0048" title="DSC_0048"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/572/22233776860_36fe2545cf_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/572/22233776860_36fe2545cf_q.jpg" alt="DSC_0049" title="DSC_0049"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/768/22233776180_a96e9ebae9_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/768/22233776180_a96e9ebae9_q.jpg" alt="BR P1_1" title="BR P1_1"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/669/21798986504_49e34ee82b_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/669/21798986504_49e34ee82b_q.jpg" alt="BR P1_2" title="BR P1_2"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/656/22154437108_9831fe4b9c_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/656/22154437108_9831fe4b9c_q.jpg" alt="fractal" title="fractal"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5643/22395741236_dbaeacb4f7_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5643/22395741236_dbaeacb4f7_q.jpg" alt="DSC_0072.MOV 2014.11.10 02.14.18.214" title="DSC_0072.MOV 2014.11.10 02.14.18.214"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5691/22395741526_fe77de7b65_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5691/22395741526_fe77de7b65_q.jpg" alt="DSC_0072.MOV 2014.11.10 02.13.36.749" title="DSC_0072.MOV 2014.11.10 02.13.36.749"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/740/22408525012_c012e7bbbe_b.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/740/22408525012_c012e7bbbe_q.jpg" alt="10424255_10154764502545459_5298607818254099282_n" title="10424255_10154764502545459_5298607818254099282_n"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5800/22432603431_3237b019a7_b.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5800/22432603431_3237b019a7_q.jpg" alt="borromean iii" title="borromean iii"></a></li>
-    </ul>
-  </div>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Repeated Forms of Discontinuity Rotating in Place]]></title>
-    <link href="http://symbios.wiki/visual/Repeated-Forms/"/>
-    <updated>2014-11-08T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/Repeated-Forms</id>
-    <content type="html"><![CDATA[<p>&nbsp; &nbsp; In this piece I hoped to convey the failure of the futurists. Boccioni&rsquo;s &ldquo;Unique Froms of Continuity in Space&rdquo; is stuck in place rotating over itself instead of moving forward. The aesthetics are borrowed from the Vaporwave movement in order to convey the over-saturated and accelerationist demise of the Futurists.</p>
-
-<p>&nbsp; &nbsp; This piece was shown at the Tate Britain during their &ldquo;All Glitched Up&rdquo; show in November 2014.</p>
 ]]></content>
   </entry>
   

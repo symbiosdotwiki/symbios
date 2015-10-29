@@ -6,7 +6,52 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://symbios.wiki/visual/Lewitt/</loc>
+    <lastmod>2015-10-28T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/TV-Caustics/</loc>
+    <lastmod>2015-10-27T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/NJP/</loc>
+    <lastmod>2015-10-27T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/visual/You-Feel-Perfect/</loc>
+    <lastmod>2015-10-26T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/aural/You-Feel-Perfect/</loc>
+    <lastmod>2015-10-25T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Coffee/</loc>
+    <lastmod>2015-10-25T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Bezier/</loc>
+    <lastmod>2015-10-24T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Bird/</loc>
+    <lastmod>2015-10-23T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Beethoven-Plays/</loc>
+    <lastmod>2015-10-23T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Virtual-Kaleidoscopes-2/</loc>
     <lastmod>2015-10-22T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -41,53 +86,23 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/visual/NJP/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Lewitt/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/visual/Grapes/</loc>
     <lastmod>2015-10-22T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/visual/Coffee/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Bird/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Bezier/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Beethoven-Plays/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/TV-Caustics/</loc>
-    <lastmod>2015-08-21T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/MSTP-Glitch/</loc>
-    <lastmod>2015-08-21T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/aural/A-Moment/</loc>
-    <lastmod>2015-07-25T00:00:00-04:00</lastmod>
+    <lastmod>2015-09-25T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Lake/</loc>
+    <lastmod>2015-09-19T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/aural/Interference/</loc>
+    <lastmod>2015-08-19T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -98,6 +113,11 @@
   <url>
     <loc>http://symbios.wiki/physical/I-am-___/</loc>
     <lastmod>2015-02-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/I-Am/</loc>
+    <lastmod>2015-01-27T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -121,49 +141,69 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/aural/Interference/</loc>
+    <loc>http://symbios.wiki/visual/MSTP-Glitch/</loc>
+    <lastmod>2014-09-11T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/MSTP-3/</loc>
+    <lastmod>2014-09-11T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/MSTP-2/</loc>
+    <lastmod>2014-08-21T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Interference-Cover/</loc>
     <lastmod>2014-08-19T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://symbios.wiki/visual/Milk/</loc>
+    <lastmod>2013-06-13T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2015-10-29T02:24:41-04:00</lastmod>
+    <lastmod>2015-10-29T02:51:37-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

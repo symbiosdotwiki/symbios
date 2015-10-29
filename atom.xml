@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-10-29T02:24:41-04:00</updated>
+  <updated>2015-10-29T02:51:37-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -23,10 +23,91 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Lewitt]]></title>
+    <link href="http://symbios.wiki/visual/Lewitt/"/>
+    <updated>2015-10-28T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Lewitt</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TV Caustics]]></title>
+    <link href="http://symbios.wiki/visual/TV-Caustics/"/>
+    <updated>2015-10-27T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/TV-Caustics</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NJP]]></title>
+    <link href="http://symbios.wiki/visual/NJP/"/>
+    <updated>2015-10-27T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/NJP</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[You Feel Perfect]]></title>
     <link href="http://symbios.wiki/visual/You-Feel-Perfect/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
+    <updated>2015-10-26T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/You-Feel-Perfect</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SUGARQUOTE - You Feel Perfect [Unreleased]]]></title>
+    <link href="http://symbios.wiki/aural/You-Feel-Perfect/"/>
+    <updated>2015-10-25T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/aural/You-Feel-Perfect</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Coffee]]></title>
+    <link href="http://symbios.wiki/visual/Coffee/"/>
+    <updated>2015-10-25T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Coffee</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bezier]]></title>
+    <link href="http://symbios.wiki/visual/Bezier/"/>
+    <updated>2015-10-24T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Bezier</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bird]]></title>
+    <link href="http://symbios.wiki/visual/Bird/"/>
+    <updated>2015-10-23T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Bird</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Beethoven Plays]]></title>
+    <link href="http://symbios.wiki/visual/Beethoven-Plays/"/>
+    <updated>2015-10-23T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Beethoven-Plays</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Virtual Kaleidoscope 2]]></title>
+    <link href="http://symbios.wiki/visual/Virtual-Kaleidoscopes-2/"/>
+    <updated>2015-10-22T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Virtual-Kaleidoscopes-2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -86,24 +167,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[NJP]]></title>
-    <link href="http://symbios.wiki/visual/NJP/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/NJP</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lewitt]]></title>
-    <link href="http://symbios.wiki/visual/Lewitt/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Lewitt</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Bezier]]></title>
     <link href="http://symbios.wiki/visual/Grapes/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
@@ -113,87 +176,20 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Coffee]]></title>
-    <link href="http://symbios.wiki/visual/Coffee/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Coffee</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bird]]></title>
-    <link href="http://symbios.wiki/visual/Bird/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Bird</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bezier]]></title>
-    <link href="http://symbios.wiki/visual/Bezier/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Bezier</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beethoven Plays]]></title>
-    <link href="http://symbios.wiki/visual/Beethoven-Plays/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Beethoven-Plays</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TV Caustics]]></title>
-    <link href="http://symbios.wiki/visual/TV-Caustics/"/>
-    <updated>2015-08-21T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/TV-Caustics</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MSTP Glitch]]></title>
-    <link href="http://symbios.wiki/visual/MSTP-Glitch/"/>
-    <updated>2015-08-21T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/MSTP-Glitch</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[SUGARQUOTE - a Moment]]></title>
     <link href="http://symbios.wiki/aural/A-Moment/"/>
-    <updated>2015-07-25T00:00:00-04:00</updated>
+    <updated>2015-09-25T00:00:00-04:00</updated>
     <id>http://symbios.wiki/aural/A-Moment</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[SUGARQUOTE - Pop Cube Jingle]]></title>
-    <link href="http://symbios.wiki/aural/Pop-Cube/"/>
-    <updated>2015-05-07T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/aural/Pop-Cube</id>
-    <content type="html"><![CDATA[<p>Here is SUGARQUOTE&rsquo;s Pop Cube Jingle Remix for PC Music&rsquo;s Pop Cube.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I Am ___.]]></title>
-    <link href="http://symbios.wiki/physical/I-am-___/"/>
-    <updated>2015-02-17T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/physical/I-am-___</id>
-    <content type="html"><![CDATA[<p>&nbsp; Largely inspired by speculative realism and the books K​ant after Duchamp and Systems We Have Loved by Thierry de Duve and Eve Meltzer, respectively, the piece I​am ___. attempts to manifest an emergent art object which grapples with the inability of any one structural ideology to fully characterize an object. The realization of this work involved making many locally logical paths with little emphasis on the global structure by following every small question to its logical conclusion. How does the hyperfine treatment of an object in locally logical systems affect the global object? Can this model of production be used to create globally emergent and autonomous objects which actively elude singular interpretation?</p>
-
-<p>&nbsp; The piece first began as a series of self-referential images made on a computer with the help of generative algorithms and Photoshop. From these images, the goal was to physically manifest the piece as accurately as possible through whatever means necessary. This lead to the creation of five physical objects, and an augmented reality application. The augmented reality application is used to place a virtual object in the space, as well as to show a virtual representation of the piece.</p>
-
-<p>&nbsp; The piece requires the viewers to operate the augmented reality application to finish the production of the piece, and to add titles to the piece to mark their own participation in its creation. The use of multiple self-referential objects and the ability of the application to be used across multiple devices helps create a space which both absorbs the viewers and folds over itself. I hope this materialization pulls viewers in, both physically and mentally, and asks them to participate in the autonomy of the piece.</p>
+    <title type="html"><![CDATA[Lake]]></title>
+    <link href="http://symbios.wiki/visual/Lake/"/>
+    <updated>2015-09-19T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Lake</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

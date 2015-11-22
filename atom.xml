@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-11-05T12:34:39-05:00</updated>
+  <updated>2015-11-22T15:17:51-05:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gloop]]></title>
+    <link href="http://symbios.wiki/visual/Gloop/"/>
+    <updated>2015-11-14T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Gloop</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Please Don't Touch the Art]]></title>
@@ -181,15 +190,6 @@
     <link href="http://symbios.wiki/visual/Park/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Park</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bezier]]></title>
-    <link href="http://symbios.wiki/visual/Grapes/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Grapes</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

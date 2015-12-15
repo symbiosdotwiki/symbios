@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-11-23T06:41:07-05:00</updated>
+  <updated>2015-12-15T10:56:33-05:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Snowflake]]></title>
+    <link href="http://symbios.wiki/visual/Snowflake/"/>
+    <updated>2015-12-06T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Snowflake</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tsaik - Tehraj (Video Stills)]]></title>
+    <link href="http://symbios.wiki/visual/Tsaik-Tehraj/"/>
+    <updated>2015-12-04T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Tsaik-Tehraj</id>
+    <content type="html"><![CDATA[<p>These are stills from the forthcoming music video for Tsaik&rsquo;s track Tehraj on Lost Tribe Records.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gloop]]></title>
@@ -79,6 +97,15 @@
   
   <entry>
     <title type="html"><![CDATA[You Feel Perfect]]></title>
+    <link href="http://symbios.wiki/visual/You-Feel-Perfect-2/"/>
+    <updated>2015-10-26T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/You-Feel-Perfect-2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[You Feel Perfect]]></title>
     <link href="http://symbios.wiki/visual/You-Feel-Perfect/"/>
     <updated>2015-10-26T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/You-Feel-Perfect</id>
@@ -109,15 +136,6 @@
     <link href="http://symbios.wiki/visual/Bezier/"/>
     <updated>2015-10-24T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Bezier</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bird]]></title>
-    <link href="http://symbios.wiki/visual/Bird/"/>
-    <updated>2015-10-23T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Bird</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
@@ -159,15 +177,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Tree]]></title>
-    <link href="http://symbios.wiki/visual/Tree/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Tree</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Temple]]></title>
     <link href="http://symbios.wiki/visual/Temple/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
@@ -181,15 +190,6 @@
     <link href="http://symbios.wiki/visual/Plate/"/>
     <updated>2015-10-22T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Plate</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Park]]></title>
-    <link href="http://symbios.wiki/visual/Park/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Park</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

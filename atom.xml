@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2015-12-15T10:56:33-05:00</updated>
+  <updated>2016-01-19T16:33:16-05:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Forest]]></title>
+    <link href="http://symbios.wiki/visual/Rococo/"/>
+    <updated>2016-01-19T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Rococo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Forest]]></title>
+    <link href="http://symbios.wiki/visual/Forest/"/>
+    <updated>2016-01-16T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Forest</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SUGARQUOTE - Everyone Is Here (but It's Just You and Me)]]></title>
+    <link href="http://symbios.wiki/aural/Sugarquote-Everyone/"/>
+    <updated>2016-01-10T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/aural/Sugarquote-Everyone</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Snowflake]]></title>
@@ -54,8 +81,7 @@
     <link href="http://symbios.wiki/aural/Tsaik-Hera-Tehraj/"/>
     <updated>2015-11-03T00:00:00-05:00</updated>
     <id>http://symbios.wiki/aural/Tsaik-Hera-Tehraj</id>
-    <content type="html"><![CDATA[<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231426011%3Fsecret_token%3Ds-qAyEC&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -164,33 +190,6 @@
     <updated>2015-10-22T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Virtual-Kaleidoscopes</id>
     <content type="html"><![CDATA[<p>I created a few renders using models of kalediedoscopes as described in Don Doak&rsquo;s patent after reading <a href="http://www.waynesthisandthat.com/kaleidoscopes2.html">Wayne Schmidt&rsquo;s post</a> on kaleidoscopes. Below I have also included a few images of the pictures I took with a kaleidoscope and some EL wire for aesthetic experimenting.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Violin]]></title>
-    <link href="http://symbios.wiki/visual/Violin/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Violin</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Temple]]></title>
-    <link href="http://symbios.wiki/visual/Temple/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Temple</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Plate]]></title>
-    <link href="http://symbios.wiki/visual/Plate/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Plate</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

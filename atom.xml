@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-03-12T19:23:44-05:00</updated>
+  <updated>2016-04-07T19:39:15-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Xenonyms Compilation Cover]]></title>
+    <link href="http://symbios.wiki/visual/Xenonyms/"/>
+    <updated>2016-04-06T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Xenonyms</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SUGARQUOTE - Everyone Is Here (but It's Just You and Me)]]></title>
@@ -180,15 +189,6 @@
     <link href="http://symbios.wiki/visual/Beethoven-Plays/"/>
     <updated>2015-10-23T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Beethoven-Plays</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Virtual Kaleidoscope 2]]></title>
-    <link href="http://symbios.wiki/visual/Virtual-Kaleidoscopes-2/"/>
-    <updated>2015-10-22T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Virtual-Kaleidoscopes-2</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

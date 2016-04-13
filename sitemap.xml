@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://symbios.wiki/aural/Isomov-Pseudo_Meta/</loc>
+    <lastmod>2016-04-13T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Genomeless/</loc>
+    <lastmod>2016-04-13T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Trees/</loc>
+    <lastmod>2016-04-10T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/visual/Xenonyms/</loc>
     <lastmod>2016-04-06T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -212,43 +227,43 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2016-04-10T12:57:07-04:00</lastmod>
+    <lastmod>2016-04-13T14:35:46-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

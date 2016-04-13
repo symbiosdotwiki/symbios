@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-04-07T19:39:15-04:00</updated>
+  <updated>2016-04-13T14:22:48-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Genomeless]]></title>
+    <link href="http://symbios.wiki/visual/Genomeless/"/>
+    <updated>2016-04-13T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Genomeless</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trees]]></title>
+    <link href="http://symbios.wiki/visual/Trees/"/>
+    <updated>2016-04-10T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Trees</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Xenonyms Compilation Cover]]></title>
@@ -23,7 +41,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[SUGARQUOTE - Everyone Is Here (but It's Just You and Me)]]></title>
+    <title type="html"><![CDATA[Isomov - Pseudo/Meta]]></title>
     <link href="http://symbios.wiki/aural/Sugarquote-Everyone/"/>
     <updated>2016-02-17T00:00:00-05:00</updated>
     <id>http://symbios.wiki/aural/Sugarquote-Everyone</id>
@@ -171,24 +189,6 @@
     <link href="http://symbios.wiki/visual/Coffee/"/>
     <updated>2015-10-25T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Coffee</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bezier]]></title>
-    <link href="http://symbios.wiki/visual/Bezier/"/>
-    <updated>2015-10-24T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Bezier</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beethoven Plays]]></title>
-    <link href="http://symbios.wiki/visual/Beethoven-Plays/"/>
-    <updated>2015-10-23T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Beethoven-Plays</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

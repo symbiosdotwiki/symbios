@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-04-13T15:06:50-04:00</updated>
+  <updated>2016-04-14T18:06:20-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Best Vocoder Ballads]]></title>
+    <link href="http://symbios.wiki/blog/Vocoder-Ballads/"/>
+    <updated>2016-04-14T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/blog/Vocoder-Ballads</id>
+    <content type="html"><![CDATA[<p>There is something really beautiful about robot voices that can convey emotions. I&rsquo;ve compiled some of my favorite vocoder ballads below.</p>
+
+<div class='spotify_play_button'>
+<iframe src='https://embed.spotify.com/?uri=spotify:user:1289276684:playlist:05ccZCQkWLAVRtGUjDPaLY ' width='300' height='380' frameborder='0' allowtransparency='true'></iframe>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Isomov - Pseudo/Meta]]></title>
@@ -201,15 +215,6 @@
     <link href="http://symbios.wiki/visual/You-Feel-Perfect-2/"/>
     <updated>2015-10-26T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/You-Feel-Perfect-2</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[You Feel Perfect]]></title>
-    <link href="http://symbios.wiki/visual/You-Feel-Perfect/"/>
-    <updated>2015-10-26T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/You-Feel-Perfect</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

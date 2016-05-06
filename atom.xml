@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-06T17:15:29-04:00</updated>
+  <updated>2016-05-06T17:16:34-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -18,7 +18,9 @@
     <link href="http://symbios.wiki/blog/CG-Music-Videos/"/>
     <updated>2016-05-06T00:00:00-04:00</updated>
     <id>http://symbios.wiki/blog/CG-Music-Videos</id>
-    <content type="html"><![CDATA[<h2>I really enjoy the symbiosis between music and visuals. Below I have collected my favorite music videos which utilize computer graphics. I will try to update this page over time as I find new works, so please check back!</h2>
+    <content type="html"><![CDATA[<p>I really enjoy the symbiosis between music and visuals. Below I have collected my favorite music videos which utilize computer graphics. I will try to update this page over time as I find new works, so please check back!</p>
+
+<hr />
 
 <p><strong>Bok Bok &amp; Sweyn Jupiter - Papaya Lipgloss</strong></p>
 

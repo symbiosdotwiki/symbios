@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-06T17:40:12-04:00</updated>
+  <updated>2016-05-06T17:43:32-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -202,6 +202,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Blooming Flowers]]></title>
+    <link href="http://symbios.wiki/visual/Blooming-Flowers/"/>
+    <updated>2016-05-04T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Blooming-Flowers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Best Vocoder Ballads]]></title>
     <link href="http://symbios.wiki/blog/Vocoder-Ballads/"/>
     <updated>2016-04-14T00:00:00-04:00</updated>
@@ -385,15 +394,6 @@
     <link href="http://symbios.wiki/visual/TV-Caustics/"/>
     <updated>2015-10-27T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/TV-Caustics</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[NJP]]></title>
-    <link href="http://symbios.wiki/visual/NJP/"/>
-    <updated>2015-10-27T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/NJP</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-06T17:03:11-04:00</updated>
+  <updated>2016-05-11T12:43:15-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Best CG Music Videos]]></title>
+    <title type="html"><![CDATA[Favorite CG Music Videos]]></title>
     <link href="http://symbios.wiki/blog/CG-Music-Videos/"/>
     <updated>2016-05-06T00:00:00-04:00</updated>
     <id>http://symbios.wiki/blog/CG-Music-Videos</id>
-    <content type="html"><![CDATA[<h2>I really enjoy the symbiosis between music and visuals. Below I have collected my favorite music videos which utilize computer graphics. I will try to update this page over time as I find new works, so please check back!</h2>
+    <content type="html"><![CDATA[<p>I really enjoy the symbiosis between music and visuals. Below I have collected my favorite music videos which utilize computer graphics. I will try to update this page over time as I find new works, so please check back!</p>
+
+<hr />
 
 <p><strong>Bok Bok &amp; Sweyn Jupiter - Papaya Lipgloss</strong></p>
 
@@ -52,6 +54,18 @@
 <div class="embed-video-container"><iframe src="https://player.vimeo.com/video/144615601?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
 
 
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/144165513?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<p><strong>Oneohtrix Point Never - Problem Areas</strong></p>
+
+<p>Directed by: Takeshi Murata</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/71500051?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
 <hr />
 
 <p><strong>Arca - Trauma Scene 1</strong></p>
@@ -59,6 +73,15 @@
 <p>Directed by: Jesse Kanda</p>
 
 <div class="embed-video-container"><iframe src="https://player.vimeo.com/video/89944920?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<hr />
+
+<p><strong>Gesaffelstein - Pursuit</strong></p>
+
+<p>Directed by: Fleur &amp; Manu</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/68634031?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
 
 
 <hr />
@@ -168,6 +191,40 @@
 
 
 <hr />
+
+<p><strong>Yeasayer - I Am Chemistry</strong></p>
+
+<p>Directed by: New Media Limited</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/151002965?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<hr />
+
+<p><strong>Clark - Winter Linn</strong></p>
+
+<p>Directed by: Chris Hewitt</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/111743736?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<hr />
+
+<p><strong>OL - Lum Edit</strong></p>
+
+<p>Directed By: Mark Fingerhut</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/110497218?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blooming Flowers]]></title>
+    <link href="http://symbios.wiki/visual/Blooming-Flowers/"/>
+    <updated>2016-05-04T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Blooming-Flowers</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -355,15 +412,6 @@
     <link href="http://symbios.wiki/visual/TV-Caustics/"/>
     <updated>2015-10-27T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/TV-Caustics</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[NJP]]></title>
-    <link href="http://symbios.wiki/visual/NJP/"/>
-    <updated>2015-10-27T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/NJP</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

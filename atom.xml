@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-11T14:28:05-04:00</updated>
+  <updated>2016-05-16T00:23:23-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -285,9 +285,25 @@
     <id>http://symbios.wiki/physical/BRx1</id>
     <content type="html"><![CDATA[<p>Borromean Resistance is a collaboration between sarah olympia, Dorothy Lam, and myself.</p>
 
-<p>Performance (X+1) continued the work of Piece 1, proposing new models of activism as feedback in complex systems. It was a four-part interactive computing system that probes the intersection of technology, art, and activism. Drawing on the tension between the urgent need for political change called for in movements such as climate activism and the lure of abstraction in art, the installation engages the viewer in challenging questions about representation, efficacy and collective action. Three interactive stations allow the viewer to experience and critique different conceptual models of social and political action. As the fourth element, an open discussion explores the tensions between art and activism, abstraction versus action, futility versus utility, and digital versus analogue interaction.</p>
+<p>Performance (X+1) continued the work of Piece 1, proposing new models of activism as feedback in complex systems. It was a four-part interactive computing system that probes the intersection of technology, art, and activism. Drawing on the tension between the urgent need for political change called for in movements such as climate activism and the lure of abstraction in art, the installation engages the viewer in challenging questions about representation, efficacy and collective action. Three interactive stations allow the viewer to experience and critique different conceptual models of social and political action. As the fourth element, an open discussion explores the tensions between art and activism, abstraction versus action, futility versus utility, and digital versus analogue interaction. The show was largely inspired by the systems art movement and the work of Hans Haacke.</p>
 
 <p>This piece was performed at a solo show at the <a href="http://acinstitute.org/performance-x1/">AC Institute</a> in Manhattan on February 24th, 2016.</p>
+
+<hr />
+
+<p>During the show, the actual mechanisms for the the three physical components were obfuscated from the visitors. However, for clarity, I have outlined how each system functioned below.</p>
+
+<p><strong>The Effort Collector</strong> was comprised of an interactive ice tank and a visualization. Visitors were invited to plunge their hands into the ice tank which would then communicate with the visualization and cause it to slowly change over the course of the exhibition. The uncomfortable nature of this act, and the incremental change effected were intended to parallel to the ardous process of activism.</p>
+
+<p>This piece was accomplished with various technologies. The ice tank used an infrared light sensor to detect when hands were inside of the ice tank and then used a microcontroller and miniature computer to send the data via OSC to the visualization component. The visualization was created using webGL and hosted with a local Node.js server to accept the OSC data. The visualization utilized a ray marching algorithm to approximate a 3D projection of a 4D Julia set. The data correspondence relayed the length of time each person kept their hands submerged and this data was used to advect the various constants which produce the Julia set. The Julia set began as a simple sphere and transformed over the course of the night into a complex geometrical object. For more information please see the earlier <a href="http://symbios.wiki/physical/BR1">post</a> about the first version.</p>
+
+<p><strong>The Capital Generator</strong> was a comprised of a crypto-currency-generating ASIC, a device to measure the power usage of the ASIC, a data visualization scheme, and a voting system. Participants were asked to observe the data representing the amount of money the ASIC was generating and the amount of energy it was using. They were then asked to vote for whether the ASIC should be stopped or left to generate more money. The money generated would be donated to the non-profit 350.org.</p>
+
+<p>Using a mining pool, we were able to generate fractions of bitcoins to donate in a small period of time. The power drawn from the device was measured using a microcontroller and plotted using matplotlib. The voting system was created using a Python wrapper for the Twitter API with pre-specific hashtags to trigger the voting system.</p>
+
+<p><strong>The Breath Connector</strong> was meant to allow the participants to empathize with nature and each other. A large plexiglass cube containing a small garden was too dark to see into at the beginning of the show. There was a facemask which allowed the participants to breath into the cube. The more CO2 present in the cube, the brighter the lights inside of the cube would get, revealing the garden inside.</p>
+
+<p>The increase of CO2 was measured using a CO2 sensor and microcontroller. The microcontroller then calculated the brightness of the lights and changed their brightness using a MOSFET circuit.</p>
 
 <div class="row">
   <div class="large-11 columns large-centered">
@@ -363,15 +379,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Gloop]]></title>
-    <link href="http://symbios.wiki/visual/Gloop/"/>
-    <updated>2015-11-14T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/Gloop</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Please Don't Touch the Art]]></title>
     <link href="http://symbios.wiki/visual/Dont-Touch/"/>
     <updated>2015-11-05T00:00:00-05:00</updated>
@@ -412,6 +419,15 @@
     <link href="http://symbios.wiki/visual/TV-Caustics/"/>
     <updated>2015-10-27T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/TV-Caustics</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NJP]]></title>
+    <link href="http://symbios.wiki/visual/NJP/"/>
+    <updated>2015-10-27T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/NJP</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

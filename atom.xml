@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-16T00:27:12-04:00</updated>
+  <updated>2016-05-16T03:35:31-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Colorful Coral]]></title>
+    <link href="http://symbios.wiki/visual/Colorful-Coral/"/>
+    <updated>2016-05-16T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Colorful-Coral</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Favorite CG Music Videos]]></title>
@@ -220,6 +229,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Flower Bloom]]></title>
+    <link href="http://symbios.wiki/visual/Flower-Bloom/"/>
+    <updated>2016-05-05T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Flower-Bloom</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Blooming Flowers]]></title>
     <link href="http://symbios.wiki/visual/Blooming-Flowers/"/>
     <updated>2016-05-04T00:00:00-04:00</updated>
@@ -275,6 +293,28 @@
     <updated>2016-04-06T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Xenonyms</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Three Obelisks]]></title>
+    <link href="http://symbios.wiki/physical/Three-Obelisks/"/>
+    <updated>2016-03-27T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/physical/Three-Obelisks</id>
+    <content type="html"><![CDATA[<p>Three Obelisks is a contemporary take on Kosuth&rsquo;s <em>Three Chairs</em>. My interest in his piece is loosely inspired by Graham Harman&rsquo;s interpretation of Delanda&rsquo;s Assemblage Theory. Kosuth&rsquo;s simple chairs forced the locus of his piece to be the chair that wasn&rsquo;t present, the Real chair which is never captured in representation or reification. My extension of his logic uses a specific Egyptian obelisk. Instead of focusing on object, image, and definition, I instead chose to focus on commodity, simulation, and historical document. This specification of an object as a commodity, an image as a simulation, and a definition as a historical document is an attempt to extend the locus of the piece to not just include a Real obejct, but also the temporality of that object. Perhaps this juxtaposition of commodity, simulation, and historical document conjures a Real sculpture.</p>
+
+<div class="row">
+  <div class="large-11 columns large-centered">
+    <ul class="clearing-thumbs thumbs" data-clearing>
+      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7445/26770333090_5b487756b7_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7445/26770333090_06def6c10d_q.jpg" alt="Obelisks_Dark" title="Obelisks_Dark"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7537/26439230714_da69f31945_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7537/26439230714_c285d1a4fd_q.jpg" alt="Obelisks" title="Obelisks"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7176/26440894603_a85185ee5b_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7176/26440894603_a34bb399ac_q.jpg" alt="Poster" title="Poster"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7101/26440895873_25f4f24fdb_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7101/26440895873_e0137dbc8c_q.jpg" alt="obelisk0043" title="obelisk0043"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7759/26977090861_7312e4d6ee_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7759/26977090861_e2928c76c4_q.jpg" alt="obelisk poster" title="obelisk poster"></a></li>
+    </ul>
+  </div>
+</div>
+
 ]]></content>
   </entry>
   
@@ -401,33 +441,6 @@
     <link href="http://symbios.wiki/visual/CMSTP/"/>
     <updated>2015-10-29T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/CMSTP</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lewitt]]></title>
-    <link href="http://symbios.wiki/visual/Lewitt/"/>
-    <updated>2015-10-28T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Lewitt</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TV Caustics]]></title>
-    <link href="http://symbios.wiki/visual/TV-Caustics/"/>
-    <updated>2015-10-27T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/TV-Caustics</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[NJP]]></title>
-    <link href="http://symbios.wiki/visual/NJP/"/>
-    <updated>2015-10-27T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/NJP</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

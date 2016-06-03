@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-05-16T03:42:17-04:00</updated>
+  <updated>2016-06-03T16:59:31-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -14,11 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Flamin' Hot Rainforests]]></title>
+    <link href="http://symbios.wiki/visual/Flamin-Hot/"/>
+    <updated>2016-06-03T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Flamin-Hot</id>
+    <content type="html"><![CDATA[<p>In 2015, 6.4m acres of Indonesian rainforest were burned down from reckless slash and burning to make space for palm oil crops. These rainforests are the second most biodiverse areas on Earth and the CO2 emissions from the fires are more than the annual emissions from major economies such as the UK and Japan. <a href="http://www.theguardian.com/environment/2015/dec/15/indonesia-forest-fires-cost-twice-as-much-as-tsunami-clean-up-says-world-bank"><em>Source</em></a>.</p>
+
+<p>To represent such a sublime atrocity is futile, and so I believe the medium should reflect this futility. I was quite inspired by Talwst Santiago’s approach to this problem in his <a href="http://talwst.com/category/sculpture-infinity/"><em>Minimized Histories</em></a> dioramas, which show tiny caricatures of hate crimes against blacks throughout history. Because most Americans’ experiences of foreign lands, such as Indonesia, and of cataclysms, such as fires, have been filtered through the lenses of tourism and movie VFX, respectively, I decided to use languages to reflect the deficiencies of representing this sublime ecological disaster.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Colorful Coral]]></title>
     <link href="http://symbios.wiki/visual/Colorful-Coral/"/>
     <updated>2016-05-16T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Colorful-Coral</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>2016 the longest coral bleaching epidemic in recorded history and scientists are worried many of the ocean&rsquo;s corals are not going to survive. I hope this colorful simulated coral growth isn&rsquo;t the only way we can appreciate these beautiful creatures in the future. <a href="http://www.scientificamerican.com/article/best-protected-great-barrier-reef-corals-are-now-dead/"><em>Source</em></a>.</p>
 ]]></content>
   </entry>
   
@@ -283,7 +294,7 @@
     <link href="http://symbios.wiki/visual/Trees/"/>
     <updated>2016-04-10T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Trees</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>In this piece I wanted to explore the natural sublime through the works of Ansel Adams in the context of our cultural shift from the actual to the virtual. How does the juxtaposition of actual nature and virtual nature alter your perception of both?</p>
 ]]></content>
   </entry>
   
@@ -432,15 +443,6 @@
     <link href="http://symbios.wiki/aural/Tsaik-Hera-Tehraj/"/>
     <updated>2015-11-03T00:00:00-05:00</updated>
     <id>http://symbios.wiki/aural/Tsaik-Hera-Tehraj</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CMSTP]]></title>
-    <link href="http://symbios.wiki/visual/CMSTP/"/>
-    <updated>2015-10-29T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/CMSTP</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

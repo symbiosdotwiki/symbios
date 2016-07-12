@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-07-11T20:16:46-04:00</updated>
+  <updated>2016-07-11T20:19:12-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Inside Looking Out]]></title>
+    <link href="http://symbios.wiki/visual/Inside-Looking-Out/"/>
+    <updated>2016-07-10T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Inside-Looking-Out</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Flamin' Hot Rainforests]]></title>
@@ -30,15 +39,6 @@
     <updated>2016-05-16T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Colorful-Coral</id>
     <content type="html"><![CDATA[<p>2016 the longest coral bleaching epidemic in recorded history and scientists are worried many of the ocean&rsquo;s corals are not going to survive. I hope this colorful simulated coral growth isn&rsquo;t the only way we can appreciate these beautiful creatures in the future. <a href="http://www.scientificamerican.com/article/best-protected-great-barrier-reef-corals-are-now-dead/"><em>Source</em></a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Inside Looking Out]]></title>
-    <link href="http://symbios.wiki/visual/Inside-Looking-Out/"/>
-    <updated>2016-05-10T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Inside-Looking-Out</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

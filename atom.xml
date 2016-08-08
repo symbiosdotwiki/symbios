@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-07-11T20:19:12-04:00</updated>
+  <updated>2016-05-11T12:43:15-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,35 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Inside Looking Out]]></title>
-    <link href="http://symbios.wiki/visual/Inside-Looking-Out/"/>
-    <updated>2016-07-10T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Inside-Looking-Out</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Flamin' Hot Rainforests]]></title>
-    <link href="http://symbios.wiki/visual/Flamin-Hot/"/>
-    <updated>2016-06-03T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Flamin-Hot</id>
-    <content type="html"><![CDATA[<p>In 2015, 6.4m acres of Indonesian rainforest were burned down from reckless slash and burning to make space for palm oil crops. These rainforests are the second most biodiverse areas on Earth and the CO2 emissions from the fires are more than the annual emissions from major economies such as the UK and Japan. <a href="http://www.theguardian.com/environment/2015/dec/15/indonesia-forest-fires-cost-twice-as-much-as-tsunami-clean-up-says-world-bank"><em>Source</em></a>.</p>
-
-<p>To represent such a sublime atrocity is futile, and so I believe the medium should reflect this futility. I was quite inspired by Talwst Santiago’s approach to this problem in his <a href="http://talwst.com/category/sculpture-infinity/"><em>Minimized Histories</em></a> dioramas, which show tiny caricatures of hate crimes against blacks throughout history. Because most Americans’ experiences of foreign lands, such as Indonesia, and of cataclysms, such as fires, have been filtered through the lenses of tourism and movie VFX, respectively, I decided to use languages to reflect the deficiencies of representing this sublime ecological disaster.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Colorful Coral]]></title>
-    <link href="http://symbios.wiki/visual/Colorful-Coral/"/>
-    <updated>2016-05-16T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Colorful-Coral</id>
-    <content type="html"><![CDATA[<p>2016 the longest coral bleaching epidemic in recorded history and scientists are worried many of the ocean&rsquo;s corals are not going to survive. I hope this colorful simulated coral growth isn&rsquo;t the only way we can appreciate these beautiful creatures in the future. <a href="http://www.scientificamerican.com/article/best-protected-great-barrier-reef-corals-are-now-dead/"><em>Source</em></a>.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Favorite CG Music Videos]]></title>
@@ -249,15 +220,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Flower Bloom]]></title>
-    <link href="http://symbios.wiki/visual/Flower-Bloom/"/>
-    <updated>2016-05-05T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Flower-Bloom</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Blooming Flowers]]></title>
     <link href="http://symbios.wiki/visual/Blooming-Flowers/"/>
     <updated>2016-05-04T00:00:00-04:00</updated>
@@ -303,7 +265,7 @@
     <link href="http://symbios.wiki/visual/Trees/"/>
     <updated>2016-04-10T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Trees</id>
-    <content type="html"><![CDATA[<p>In this piece I wanted to explore the natural sublime through the works of Ansel Adams in the context of our cultural shift from the actual to the virtual. How does the juxtaposition of actual nature and virtual nature alter your perception of both?</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -317,53 +279,15 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[One and Three Obelisks]]></title>
-    <link href="http://symbios.wiki/physical/Three-Obelisks/"/>
-    <updated>2016-03-27T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/physical/Three-Obelisks</id>
-    <content type="html"><![CDATA[<p><em>One and Three Obelisks</em> is a contemporary take on Kosuth&rsquo;s <em>One and Three Chairs</em>. My interest in his piece is loosely inspired by Graham Harman&rsquo;s interpretation of Delanda&rsquo;s Assemblage Theory. Kosuth&rsquo;s simple chairs forced the locus of his piece to be the chair that wasn&rsquo;t present, the Real chair which is never captured in representation or reification. My extension of his logic uses a specific Egyptian obelisk. Instead of focusing on object, image, and definition, I instead chose to focus on commodity, simulation, and historical document. This specification of an object as a commodity, an image as a simulation, and a definition as a historical document is an attempt to extend the locus of the piece to not just include a Real obejct, but also the temporality of that object. Perhaps this juxtaposition of commodity, simulation, and historical document conjures a Real sculpture.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7445/26770333090_5b487756b7_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7445/26770333090_06def6c10d_q.jpg" alt="Obelisks_Dark" title="Obelisks_Dark"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7537/26439230714_da69f31945_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7537/26439230714_c285d1a4fd_q.jpg" alt="Obelisks" title="Obelisks"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7176/26440894603_a85185ee5b_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7176/26440894603_a34bb399ac_q.jpg" alt="Poster" title="Poster"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7101/26440895873_25f4f24fdb_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7101/26440895873_e0137dbc8c_q.jpg" alt="obelisk0043" title="obelisk0043"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm8.staticflickr.com/7759/26977090861_7312e4d6ee_o.jpg" data-gall="myGallery"><img src="https://farm8.staticflickr.com/7759/26977090861_e2928c76c4_q.jpg" alt="obelisk poster" title="obelisk poster"></a></li>
-    </ul>
-  </div>
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Borromean Resistance - Performance (X+1)]]></title>
     <link href="http://symbios.wiki/physical/BRx1/"/>
     <updated>2016-02-25T00:00:00-05:00</updated>
     <id>http://symbios.wiki/physical/BRx1</id>
     <content type="html"><![CDATA[<p>Borromean Resistance is a collaboration between sarah olympia, Dorothy Lam, and myself.</p>
 
-<p>Performance (X+1) continued the work of Piece 1, proposing new models of activism as feedback in complex systems. It was a four-part interactive computing system that probes the intersection of technology, art, and activism. Drawing on the tension between the urgent need for political change called for in movements such as climate activism and the lure of abstraction in art, the installation engages the viewer in challenging questions about representation, efficacy and collective action. Three interactive stations allow the viewer to experience and critique different conceptual models of social and political action. As the fourth element, an open discussion explores the tensions between art and activism, abstraction versus action, futility versus utility, and digital versus analogue interaction. The show was largely inspired by the systems art movement and the work of Hans Haacke.</p>
+<p>Performance (X+1) continued the work of Piece 1, proposing new models of activism as feedback in complex systems. It was a four-part interactive computing system that probes the intersection of technology, art, and activism. Drawing on the tension between the urgent need for political change called for in movements such as climate activism and the lure of abstraction in art, the installation engages the viewer in challenging questions about representation, efficacy and collective action. Three interactive stations allow the viewer to experience and critique different conceptual models of social and political action. As the fourth element, an open discussion explores the tensions between art and activism, abstraction versus action, futility versus utility, and digital versus analogue interaction.</p>
 
-<p>This piece was performed at a solo show at the <a href="http://acinstitute.org/performance-x1/">AC Institute</a> in Manhattan on February 24th, 2016. Special thanks to Saleem Gondal for editing the video.</p>
-
-<hr />
-
-<p>During the show, the actual mechanisms for the the three physical components were obfuscated from the visitors. However, for clarity, I have outlined how each system functioned below.</p>
-
-<p><strong>The Effort Collector</strong> was comprised of an interactive ice tank and a visualization. Visitors were invited to plunge their hands into the ice tank which would then communicate with the visualization and cause it to slowly change over the course of the exhibition. The uncomfortable nature of this act, and the incremental change effected were intended to parallel to the ardous process of activism.</p>
-
-<p>This piece was accomplished with various technologies. The ice tank used an infrared light sensor to detect when hands were inside of the ice tank and then used a microcontroller and miniature computer to send the data via OSC to the visualization component. The visualization was created using webGL and hosted with a local Node.js server to accept the OSC data. The visualization utilized a ray marching algorithm to approximate a 3D projection of a 4D Julia set. The data correspondence relayed the length of time each person kept their hands submerged and this data was used to advect the various constants which produce the Julia set. The Julia set began as a simple sphere and transformed over the course of the night into a complex geometrical object. For more information please see the earlier <a href="http://symbios.wiki/physical/BR1">post</a> about the first version.</p>
-
-<p><strong>The Capital Generator</strong> was a comprised of a crypto-currency-generating ASIC, a device to measure the power usage of the ASIC, a data visualization scheme, and a voting system. Participants were asked to observe the data representing the amount of money the ASIC was generating and the amount of energy it was using. They were then asked to vote for whether the ASIC should be stopped or left to generate more money. The money generated would be donated to the non-profit 350.org.</p>
-
-<p>Using a mining pool, we were able to generate fractions of bitcoins to donate in a small period of time. The power drawn from the device was measured using a microcontroller and plotted using matplotlib. The voting system was created using a Python wrapper for the Twitter API with pre-specific hashtags to trigger the voting system.</p>
-
-<p><strong>The Breath Connector</strong> was meant to allow the participants to empathize with nature and each other. A large plexiglass cube containing a small garden was too dark to see into at the beginning of the show. There was a facemask which allowed the participants to breath into the cube. The more CO2 present in the cube, the brighter the lights inside of the cube would get, revealing the garden inside.</p>
-
-<p>The increase of CO2 was measured using a CO2 sensor and microcontroller. The microcontroller then calculated the brightness of the lights and changed their brightness using a MOSFET circuit.</p>
+<p>This piece was performed at a solo show at the <a href="http://acinstitute.org/performance-x1/">AC Institute</a> in Manhattan on February 24th, 2016.</p>
 
 <div class="row">
   <div class="large-11 columns large-centered">
@@ -439,10 +363,55 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Gloop]]></title>
+    <link href="http://symbios.wiki/visual/Gloop/"/>
+    <updated>2015-11-14T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Gloop</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Please Don't Touch the Art]]></title>
     <link href="http://symbios.wiki/visual/Dont-Touch/"/>
     <updated>2015-11-05T00:00:00-05:00</updated>
     <id>http://symbios.wiki/visual/Dont-Touch</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tsaik - Hera X Tehraj (SUGARQUOTE'S ''I Saw You From Across the Album'' Hyperreal Mashup)]]></title>
+    <link href="http://symbios.wiki/aural/Tsaik-Hera-Tehraj/"/>
+    <updated>2015-11-03T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/aural/Tsaik-Hera-Tehraj</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CMSTP]]></title>
+    <link href="http://symbios.wiki/visual/CMSTP/"/>
+    <updated>2015-10-29T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/CMSTP</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lewitt]]></title>
+    <link href="http://symbios.wiki/visual/Lewitt/"/>
+    <updated>2015-10-28T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Lewitt</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TV Caustics]]></title>
+    <link href="http://symbios.wiki/visual/TV-Caustics/"/>
+    <updated>2015-10-27T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/TV-Caustics</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

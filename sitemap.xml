@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://symbios.wiki/visual/Inside-Looking-Out/</loc>
-    <lastmod>2016-07-10T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Flamin-Hot/</loc>
-    <lastmod>2016-06-03T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Colorful-Coral/</loc>
-    <lastmod>2016-05-16T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/blog/CG-Music-Videos/</loc>
     <lastmod>2016-05-06T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Flower-Bloom/</loc>
-    <lastmod>2016-05-05T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -53,11 +33,6 @@
   <url>
     <loc>http://symbios.wiki/visual/Xenonyms/</loc>
     <lastmod>2016-04-06T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/physical/Three-Obelisks/</loc>
-    <lastmod>2016-03-27T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -93,6 +68,11 @@
   <url>
     <loc>http://symbios.wiki/visual/Tsaik-Tehraj/</loc>
     <lastmod>2015-12-04T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Gloop/</loc>
+    <lastmod>2015-11-14T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -267,43 +247,43 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2016-07-11T20:19:12-04:00</lastmod>
+    <lastmod>2016-05-11T12:43:15-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

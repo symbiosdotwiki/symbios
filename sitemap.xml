@@ -56,6 +56,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://symbios.wiki/visual/Animal-Skins/</loc>
+    <lastmod>2016-07-16T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/visual/Snake-Skin/</loc>
     <lastmod>2016-07-15T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -327,49 +332,49 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/portfolio/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2016-12-02T02:24:25-05:00</lastmod>
+    <lastmod>2016-12-06T18:55:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2016-12-25T21:29:49-05:00</updated>
+  <updated>2017-01-04T17:06:53-05:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Ethics of Computer Art Through Object-Oriented Ontology]]></title>
+    <link href="http://symbios.wiki/blog/OOO/"/>
+    <updated>2016-12-31T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/blog/OOO</id>
+    <content type="html"><![CDATA[<p>For the past few years I have been developing an artistic practice which seeks to posit the differences between the Actual and the Virtual. I find this dichotomy of particular interest due to the ongoing shift of cultural practices such as activism, socializing, media, and politics, into virtual spaces. Although virtual spaces have existed for decades, Americans currently spend an average of two hours on social media everyday and culture only recently saw the introduction of the first consumer-ready VR/AR devices. Given the dramatic precedent of global colonization during the last few centuries and the use of racial and environmental exploitation, I believe artists and scientists must help society contextualize these new technologies and encourage an conscientious, rather than exploitative, exploration of new virtual spaces. Can virtual activist art have a positive impact in the actual world?</p>
+
+<p>I have found Graham Harman’s reading of Manuel DeLanda in <em>Towards Speculative Realism</em> to be particularly useful for developing some of these ideas in my art. Specifically, DeLanda develops Deleuze’s terminology of the Virtual, Actual, Real, Causation, and Emergence into what he calls Assemblages. I have also found Hal Foster’s discussion of the Real and Reification in <em>The Return of the Real</em> as well as Rosalind Krauss’ Index to be thought-provoking. I will briefly go over these terms, using Kosuth’s <em>One and Three Chairs</em> (<em>OaTC</em>) as a reference point.</p>
+
+<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/31989783311/"><img src="https://farm1.staticflickr.com/655/31989783311_8965b5041b.jpg" title="tumblr_mch4mxtjXK1qghk7bo1_1280"></a></p>
+
+<hr />
+
+<p>The Real is described by both Harman, in terms of Realism, and by Foster, in terms of Lacanian psychoanalysis. The first defines the Real as that which is “never fully actualized”, while the second defines it as that which “resists the symbolic”. DeLanda “grant[s] reality full autonomy from the human mind” (Harman), thus setting up an Object-Oriented Ontology (OOO). Harman famously compares the striking of two billiard balls to a conversation between people in order to describe the true autonomy of each object and its interactions with other objects. This means that in some sense a symbolic realm is extended to all objects, and synthesizes our two definitions of the Real. In <em>OaTC</em>, the “One Chair”, which is not representable, would be the Real chair.</p>
+
+<p>The Actual refers to that which actually happens, such as the physical chair in <em>OaTC</em>. DeLanda describes Actuality as “unfolded from potentiality”. In Foster we see actuality as Reification, which means “to bring something into being”. It  is also used as a synonym for the Marxist term Objectification, or “regarding something impersonally”. DeLanda argues that an object approaches the Real “asymptotically” through actualization; it comes “indefinitely close but never reaches it” because “to create something does not mean to see through to its depths”.
+The Virtual is a term developed by Deleuze and further by DeLanda, as the opposition to the Actual. The Virtual is the set of Real “attractors”, which the Actual asymptotically approaches. DeLanda describes the reality of the Virtual as “structure”, which I understand as algorithms, ideals, or definitions. I then take the Virtual as expressed through written language, i.e,. Lacan’s Symbolic, as the definition of the chair in <em>OaTC</em>.</p>
+
+<p>Harman describes Causation as “expressive relations”. This “primarily means creating a new object, not creating new effects on pre-existing objects”,  in the same way a Feynman diagram represents interactions of particles. Consider Lacan’s famous diagram of the Gaze. Foster elaborates on it to say that the “screen mediates the object-gaze for the subject” and “tames it as an image”. The image-screen is a dual interaction of the object and the subject, which sits in for our generalized causal interaction. Krauss defines an Index as “the marks or traces of a particular cause, and that cause is the [&hellip;] object they signify”. I then see the Index as the causal image-screen, which Krauss prototypes through photography. This is expressed as the image of the chair in <em>OaTC</em>.</p>
+
+<p>Thus, in <em>OaTC</em> we get an interesting representation of a Real object which emerges through a depiction of actualization (the chair), virtualization (the definition), and causation (the image). This Emergence is indicative of objects as Assemblages for DeLanda. Harman notes that “at whatever point we fix our gaze, entities are assembled from other entities: they can be viewed as unified things when seen from the outside, yet they are always pieced together from a vast armada of autonomous components.” Autonomy means that these Assemblages are “irreducible to their functions”, and Emergence implies they are “irreducible to pieces”.</p>
+
+<p>In particular I find this Realist philosophy to be a good basis for ethics in my artistic practice. This belief stems from the “obvious result” of “a certain form of panpsychism” (Harman) from DeLanda’s philosophy. When I consider that Harman’s OOO was first set up in opposition to Heidegger, and that Heidegger was a known member of the Nazi party, I find it hard to deny the inherent racism embedded in a privileged Correlationism through the Dasein. I see OOO as a way to avoid these ideas of privileged consciousness and “flatten” the ontology of being to all objects equally. This allows for a perspective which treats humans, animals, and our environment as equally important and deserving of a voice.</p>
+
+<hr />
+
+<p>In <em>The Return of the Real</em>, Foster makes the claim that the abject art of the 90s is characterized by a return to the Real. However, this return is, obviously, mediated through the Abject rather than the Sublime. Both of these terms refer to things beyond representation, but the Abject implies a frantic attempt to remove the Real, while the Sublime implies a kind of satisfaction with the Real. By adopting a Realist philosophy, I have opted for the Sublime. To discuss the role of the Sublime with respect to a computer-centric world, I turn to the writings of Jon McCormack. In <em>Art, Emergence, and the Computational Sublime</em>, McCormack is concerned with generative art and the “computational sublime”, or when “interesting global behavior emerges from many local interactions” within a computation. He notes that “even though we cannot comprehend the process directly, we can experience it through a machine.” So although <em>OaTC</em> points towards a DeLandian Real object, perhaps the power of modern computers could be utilized for a further expression of an ethical, Realist form of art. However, McCormack notes that this computational sublime is only achievable through autopoesis and that “the artist is obliged to acknowledge that control must really be relinquished.”</p>
+
+<p>In <em>Algorithmic Allure</em>, building on top of Harman and DeLanda, Robert Jackson further develops the algorithm as a “realist contingent force” because “most image generation algorithms do not specify one image, but a large (often infinite) class of images”, which I would argue is due to the Virtual nature of the algorithm. In relation to algorithmic/generative art, Jackson also promotes the “the disinterest of the artist as producer”, in line with McCormack. Jackson uses John F. Simon Jr.’s piece <em>Every Icon</em>, an online Java applet featuring a 32x32 binary grid which cycles through every possible icon at the clock speed of a CPU, as the prototypical art algorithm. Each icon can be viewed as an Actualized Index of the Real set of all icons which has been Virtualized by the algorithm.</p>
+
+<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/31989783501/"><img src="https://farm1.staticflickr.com/601/31989783501_d41979590e.jpg" title="everyicon"></a></p>
+
+<hr />
+
+<p>I am currently interested in how this formalized generative art can be extended to create expansive and inclusive Realist virtual spaces and soundscapes in the sense described at the beginning of this section. Most of my art has focused on composited assemblages, in the sense of Rauschenberg, of renders of virtual spaces, photographs/videos/samples, and indices of algorithms. I often utilize physical/Actual and interactive elements, as well as both visual and aural components. Two works which exemplify this technique, though they do not fully embody an activist agenda, are the music video I made for Tsaik’s <em>Tehraj</em>, featured in The Creator’s Project, and my own track <em>Everyone Is Here (But It’s Just You and Me)</em> under the alias SUGARQUOTE, featured on the Moscow-based internet label Hyperboloid Records; both of which are elaborated on in my portfolio in the terms defined above.
+Through this process I attempt to demonstrate the irreducible nature of objects and promote a more ambiguous, panpsychic form of storytelling. My goal for this multiplicity is to promote perspectives and voices which are often oppressed and marginalized, including those of the environment, non-humans, or of minority communities.</p>
+
+<p>I am also intrigued by the ways culture related to these subjects permeates through and is transformed by the emergent online virtual space. Much of my work lives exclusively online, and incorporates a vast array of cultural symbols and movements into new and cohesive works which try to blend, rather than other, the myriad of emerging genres and aesthetics worldwide in a respectful and non-appropriative manner. I have found Jacolby Satterwhite’s <em>Reifying Desire</em> series to be an exceptional example of the potential of virtual assemblages of varying degrees of reality with the added potency of underground club music.</p>
+
+<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/32068956296/"><img src="https://farm1.staticflickr.com/588/32068956296_670d592a00.jpg" title="satterwhite_03biennial04_1140"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Portfolio for MIT Media Lab 2016]]></title>
@@ -195,7 +238,7 @@
 
 <p>When discussing ecological horrors such as the loss of species I find the language of the Sublime and the Real to help express the ineffable magnitude of such losses. In “The Return of the Real” Hal Foster discusses techniques such as illusionism, gaze, and repetition which artists such as Gober, Sherman, and Warhol, respectively, have used in order to focus their art upon the Real.</p>
 
-<p>The scene takes place in an old-fashioned office which could be anyone’s. This recreation of a hyper-real office space was motivated Foster’s comment that &ldquo;illusionism [for Gober] is employed not to cover up the real with simulacral surfaces but to uncover it in uncanny things&rdquo;. Living in contemporary American society makes participating in our economy of environmental havoc inevitable; we are constantly surrounded by the disastrously mundane things such as timber, meat, and electricity. The POV camera was chosen to show this trapped subject, browsing Instagram, as self-surveying, “not in phenomenological immanence (I see myself seeing myself) but in psychological estrangement (I am not what I imagined myself to be)”.</p>
+<p>The scene takes place in an old-fashioned office and this recreation of a hyper-real office space was motivated Foster’s comment that &ldquo;illusionism [for Gober] is employed not to cover up the real with simulacral surfaces but to uncover it in uncanny things&rdquo;. Living in contemporary American society makes participating in our economy of environmental havoc inevitable; we are constantly surrounded by the disastrously mundane things such as timber, meat, and electricity. The POV camera was chosen to show this trapped subject, browsing Instagram, as self-surveying, “not in phenomenological immanence (I see myself seeing myself) but in psychological estrangement (I am not what I imagined myself to be)”.</p>
 
 <p>The extremely nontraumatic and docile act of scrolling through Instagram is repeated in a choppy loop, ad infinitum, like a reversal of Warhol’s famous “Death and Disaster” series. Here our collective trauma is not a visible horror, but a mass complacency due to the filtering of horror through the hyper-real lens of media. It feels as if the impending mass extinction &ldquo;will not occur&rdquo;. We have seen too many “gruesome picture[s] over and over again”, and now they “don’t really have any effect”. Thus, this complacent scrolling “must be repeated” but only serves to remind us of the disasters we are ignoring. This is where Foster claims “the Real ruptures the screen of repetition” and it is the now the subject that is “touched by an image”.</p>
 
@@ -286,7 +329,7 @@
     <link href="http://symbios.wiki/visual/Animal-Skins/"/>
     <updated>2016-07-16T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Animal-Skins</id>
-    <content type="html"><![CDATA[<p>Every year, countless animals are killed and collected for sport and luxury products. For this series I wanted to imagine a future where we no longer need to harvest and poach animals for their aesthetic properties. In order for this dream to become reality, there will need to be artists who are dedicated to creating an alternative aesthetic. My approach to this problem involved hyper-lifelike renditions of snake skin, animal fur, bird feathers, and brain coral. These renditions will be photorealistic, surrealist imaginings which will hopefully remind the viewer of the living creatures from which these pieces are inspired and show that a simulated alternative is possible. The pieces highlight various algorithmic and generative techniques such as Turing patterns, which are similar to the natural proccesses which create animals' aesthetic properties.</p>
+    <content type="html"><![CDATA[<p>Every year, countless animals are killed and collected for sport and luxury products. For this series I wanted to imagine a future where we no longer need to harvest and poach animals for their aesthetic properties. In order for this dream to become reality, there will need to be artists who are dedicated to creating an alternative aesthetic. My approach to this problem involved hyper-lifelike renditions of snake skin, animal fur, bird feathers, and brain coral. These photorealistic surrealist imaginings will hopefully remind the viewer of the living creatures from which these pieces are inspired by and show that a simulated alternative is possible. These pieces highlight various algorithmic and generative techniques. This includes custom C++ software utilizing the multi-scale turning algorithms published by Jonathan McCabe. I added modifications to the algorithm to allow coloring and new organic styles of generation.</p>
 
 <hr />
 
@@ -372,15 +415,6 @@
     <content type="html"><![CDATA[<p>In 2015, 6.4m acres of Indonesian rainforest were burned down from reckless slash and burning to make space for palm oil crops. These rainforests are the second most biodiverse areas on Earth and the CO2 emissions from the fires are more than the annual emissions from major economies such as the UK and Japan. <a href="http://www.theguardian.com/environment/2015/dec/15/indonesia-forest-fires-cost-twice-as-much-as-tsunami-clean-up-says-world-bank"><em>Source</em></a>.</p>
 
 <p>To represent such a sublime atrocity is futile, and so I believe the medium should reflect this futility. I was quite inspired by Talwst Santiago’s approach to this problem in his <a href="http://talwst.com/category/sculpture-infinity/"><em>Minimized Histories</em></a> dioramas, which show tiny caricatures of hate crimes against blacks throughout history. Because most Americans’ experiences of foreign lands, such as Indonesia, and of cataclysms, such as fires, have been filtered through the lenses of tourism and movie VFX, respectively, I decided to use languages to reflect the deficiencies of representing this sublime ecological disaster.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Colorful Coral]]></title>
-    <link href="http://symbios.wiki/visual/Colorful-Coral/"/>
-    <updated>2016-05-16T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Colorful-Coral</id>
-    <content type="html"><![CDATA[<p>2016 the longest coral bleaching epidemic in recorded history and scientists are worried many of the ocean&rsquo;s corals are not going to survive. I hope this colorful simulated coral growth isn&rsquo;t the only way we can appreciate these beautiful creatures in the future. <a href="http://www.scientificamerican.com/article/best-protected-great-barrier-reef-corals-are-now-dead/"><em>Source</em></a>.</p>
 ]]></content>
   </entry>
   

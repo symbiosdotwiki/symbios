@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2017-03-23T16:06:27-04:00</updated>
+  <updated>2017-03-25T19:42:29-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -361,15 +361,6 @@ Through this process I attempt to demonstrate the irreducible nature of objects 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Decay]]></title>
-    <link href="http://symbios.wiki/visual/Decay/"/>
-    <updated>2016-07-28T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Decay</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Animal Skins]]></title>
     <link href="http://symbios.wiki/visual/Animal-Skins/"/>
     <updated>2016-07-16T00:00:00-04:00</updated>
@@ -412,6 +403,15 @@ Through this process I attempt to demonstrate the irreducible nature of objects 
     <link href="http://symbios.wiki/visual/Fur/"/>
     <updated>2016-07-15T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Fur</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Feathers]]></title>
+    <link href="http://symbios.wiki/visual/Feathers/"/>
+    <updated>2016-07-15T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Feathers</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2017-07-30T17:08:09-04:00</updated>
+  <updated>2017-07-30T17:19:18-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Isomov - Blckbdy (Ft. Rags)]]></title>
+    <link href="http://symbios.wiki/aural/Isomov-Blckbdy/"/>
+    <updated>2017-06-21T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/aural/Isomov-Blckbdy</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Black Snake, White Plastic]]></title>
@@ -384,35 +393,6 @@ Through this process I attempt to demonstrate the irreducible nature of objects 
     <updated>2016-08-10T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Bezier</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Animal Skins]]></title>
-    <link href="http://symbios.wiki/visual/Animal-Skins/"/>
-    <updated>2016-07-16T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Animal-Skins</id>
-    <content type="html"><![CDATA[<p>Every year, countless animals are killed and collected for sport and luxury products. For this series I wanted to imagine a future where we no longer need to harvest and poach animals for their aesthetic properties. In order for this dream to become reality, there will need to be artists who are dedicated to creating an alternative aesthetic. My approach to this problem involved hyper-lifelike renditions of snake skin, animal fur, bird feathers, and brain coral. These photorealistic surrealist imaginings will hopefully remind the viewer of the living creatures from which these pieces are inspired by and show that a simulated alternative is possible. These pieces highlight various algorithmic and generative techniques. This includes custom C++ software utilizing the multi-scale turning algorithms published by Jonathan McCabe. I added modifications to the algorithm to allow coloring and new organic styles of generation.</p>
-
-<hr />
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/180527957?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<hr />
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/180527954?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<hr />
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/180527955?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<hr />
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/180527956?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
 ]]></content>
   </entry>
   

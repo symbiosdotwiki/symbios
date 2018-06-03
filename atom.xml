@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2017-07-31T13:12:10-04:00</updated>
+  <updated>2018-06-03T16:41:11-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Galtier - Terran]]></title>
+    <link href="http://symbios.wiki/visual/Galtier/"/>
+    <updated>2018-06-10T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Galtier</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Specimen 18-1: Jungle Butterfly]]></title>
+    <link href="http://symbios.wiki/visual/butterfly/"/>
+    <updated>2018-04-20T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/butterfly</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[False Witness - in the Dark]]></title>
+    <link href="http://symbios.wiki/visual/False-Witness/"/>
+    <updated>2018-04-10T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/False-Witness</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Yaeji - Raingurl]]></title>
+    <link href="http://symbios.wiki/visual/photay/"/>
+    <updated>2018-02-15T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/photay</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Yaeji - Raingurl]]></title>
+    <link href="http://symbios.wiki/visual/raingurl/"/>
+    <updated>2017-11-15T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/raingurl</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[If U Close Yr Eyes U Can Hear the Music Better]]></title>
@@ -347,51 +392,6 @@ Through this process I attempt to demonstrate the irreducible nature of objects 
     <link href="http://symbios.wiki/visual/Safe-Space/"/>
     <updated>2016-10-26T00:00:00-04:00</updated>
     <id>http://symbios.wiki/visual/Safe-Space</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DIE YUPPIE SCUM]]></title>
-    <link href="http://symbios.wiki/visual/DIE-YUPPIE-SCUM/"/>
-    <updated>2016-10-16T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/DIE-YUPPIE-SCUM</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Petals]]></title>
-    <link href="http://symbios.wiki/visual/Hollow/"/>
-    <updated>2016-09-21T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Hollow</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Falling]]></title>
-    <link href="http://symbios.wiki/visual/Falling/"/>
-    <updated>2016-08-29T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Falling</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Petals]]></title>
-    <link href="http://symbios.wiki/visual/Petals/"/>
-    <updated>2016-08-28T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Petals</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lightning]]></title>
-    <link href="http://symbios.wiki/visual/Lightning/"/>
-    <updated>2016-08-23T00:00:00-04:00</updated>
-    <id>http://symbios.wiki/visual/Lightning</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

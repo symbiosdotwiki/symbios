@@ -146,26 +146,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/visual/Snake-Skin/</loc>
-    <lastmod>2016-07-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Fur/</loc>
-    <lastmod>2016-07-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Feathers/</loc>
-    <lastmod>2016-07-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Coral/</loc>
-    <lastmod>2016-07-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/visual/Inside-Looking-Out/</loc>
     <lastmod>2016-07-10T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -173,11 +153,6 @@
   <url>
     <loc>http://symbios.wiki/visual/Flamin-Hot/</loc>
     <lastmod>2016-06-03T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Colorful-Coral/</loc>
-    <lastmod>2016-05-16T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -241,43 +216,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/visual/Lewitt/</loc>
-    <lastmod>2015-10-28T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/visual/TV-Caustics/</loc>
     <lastmod>2015-10-27T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/You-Feel-Perfect/</loc>
-    <lastmod>2015-10-26T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Coffee/</loc>
-    <lastmod>2015-10-25T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Virtual-Kaleidoscopes-2/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Virtual-Kaleidoscopes/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Temple/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/Plate/</loc>
-    <lastmod>2015-10-22T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -311,21 +251,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://symbios.wiki/visual/MSTP-Four-Fold/</loc>
-    <lastmod>2014-10-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/MSTP-Glitch/</loc>
-    <lastmod>2014-09-11T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/MSTP-3/</loc>
-    <lastmod>2014-09-11T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://symbios.wiki/visual/MSTP-2/</loc>
     <lastmod>2014-08-21T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -337,49 +262,49 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/portfolio/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2018-06-03T19:10:11-04:00</lastmod>
+    <lastmod>2018-06-03T20:47:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

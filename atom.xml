@@ -4,7 +4,7 @@
   <title><![CDATA[Symbios.wiki]]></title>
   <link href="http://symbios.wiki/atom.xml" rel="self"/>
   <link href="http://symbios.wiki/"/>
-  <updated>2018-06-03T21:43:29-04:00</updated>
+  <updated>2019-03-22T13:02:34-04:00</updated>
   <id>http://symbios.wiki/</id>
   <author>
     <name><![CDATA[Symbios]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Galtier - Jade Pillar Feat Recluse]]></title>
+    <link href="http://symbios.wiki/visual/Galtier-Jade/"/>
+    <updated>2019-03-01T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Galtier-Jade</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Braid Font]]></title>
+    <link href="http://symbios.wiki/visual/Braid-Font/"/>
+    <updated>2019-02-28T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Braid-Font</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PERFECTION IS FOREVER]]></title>
+    <link href="http://symbios.wiki/visual/Perfection/"/>
+    <updated>2019-02-10T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Perfection</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BESHKEN Logo]]></title>
+    <link href="http://symbios.wiki/visual/Beshken-Text/"/>
+    <updated>2019-01-28T00:00:00-05:00</updated>
+    <id>http://symbios.wiki/visual/Beshken-Text</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zen]]></title>
+    <link href="http://symbios.wiki/visual/Zen/"/>
+    <updated>2018-07-28T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Zen</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wasp and Orchid Sunglasses]]></title>
+    <link href="http://symbios.wiki/visual/Holo-Sunglasses/"/>
+    <updated>2018-07-10T00:00:00-04:00</updated>
+    <id>http://symbios.wiki/visual/Holo-Sunglasses</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Galtier - Terran]]></title>
@@ -135,247 +189,6 @@
     <link href="http://symbios.wiki/visual/arsonist/"/>
     <updated>2017-02-13T00:00:00-05:00</updated>
     <id>http://symbios.wiki/visual/arsonist</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Photographer]]></title>
-    <link href="http://symbios.wiki/visual/photographer/"/>
-    <updated>2017-02-12T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/photographer</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hitman]]></title>
-    <link href="http://symbios.wiki/visual/hitman/"/>
-    <updated>2017-02-11T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/hitman</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Four Themes]]></title>
-    <link href="http://symbios.wiki/visual/four-themes/"/>
-    <updated>2017-02-10T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/four-themes</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[An Ethics of Computer Art Through Object-Oriented Ontology]]></title>
-    <link href="http://symbios.wiki/blog/OOO/"/>
-    <updated>2016-12-31T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/blog/OOO</id>
-    <content type="html"><![CDATA[<p>For the past few years I have been developing an artistic practice which seeks to posit the differences between the Actual and the Virtual. I find this dichotomy of particular interest due to the ongoing shift of cultural practices such as activism, socializing, media, and politics, into virtual spaces. Although virtual spaces have existed for decades, Americans currently spend an average of two hours on social media everyday and culture only recently saw the introduction of the first consumer-ready VR/AR devices. Given the dramatic precedent of global colonization during the last few centuries and the use of racial and environmental exploitation, I believe artists and scientists must help society contextualize these new technologies and encourage an conscientious, rather than exploitative, exploration of new virtual spaces. Can virtual activist art have a positive impact in the actual world?</p>
-
-<p>I have found Graham Harman’s reading of Manuel DeLanda in <em>Towards Speculative Realism</em> to be particularly useful for developing some of these ideas in my art. Specifically, DeLanda develops Deleuze’s terminology of the Virtual, Actual, Real, Causation, and Emergence into what he calls Assemblages. I have also found Hal Foster’s discussion of the Real and Reification in <em>The Return of the Real</em> as well as Rosalind Krauss’ Index to be thought-provoking. I will briefly go over these terms, using Kosuth’s <em>One and Three Chairs</em> (<em>OaTC</em>) as a reference point.</p>
-
-<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/31989783311/"><img src="https://farm1.staticflickr.com/655/31989783311_8965b5041b.jpg" title="tumblr_mch4mxtjXK1qghk7bo1_1280"></a></p>
-
-<hr />
-
-<p>The Real is described by both Harman, in terms of Realism, and by Foster, in terms of Lacanian psychoanalysis. The first defines the Real as that which is “never fully actualized”, while the second defines it as that which “resists the symbolic”. DeLanda “grant[s] reality full autonomy from the human mind” (Harman), thus setting up an Object-Oriented Ontology (OOO). Harman famously compares the striking of two billiard balls to a conversation between people in order to describe the true autonomy of each object and its interactions with other objects. This means that in some sense a symbolic realm is extended to all objects, and synthesizes our two definitions of the Real. In <em>OaTC</em>, the “One Chair”, which is not representable, would be the Real chair.</p>
-
-<p>The Actual refers to that which actually happens, such as the physical chair in <em>OaTC</em>. DeLanda describes Actuality as “unfolded from potentiality”. In Foster we see actuality as Reification, which means “to bring something into being”. It  is also used as a synonym for the Marxist term Objectification, or “regarding something impersonally”. DeLanda argues that an object approaches the Real “asymptotically” through actualization; it comes “indefinitely close but never reaches it” because “to create something does not mean to see through to its depths”.
-The Virtual is a term developed by Deleuze and further by DeLanda, as the opposition to the Actual. The Virtual is the set of Real “attractors”, which the Actual asymptotically approaches. DeLanda describes the reality of the Virtual as “structure”, which I understand as algorithms, ideals, or definitions. I then take the Virtual as expressed through written language, i.e,. Lacan’s Symbolic, as the definition of the chair in <em>OaTC</em>.</p>
-
-<p>Harman describes Causation as “expressive relations”. This “primarily means creating a new object, not creating new effects on pre-existing objects”,  in the same way a Feynman diagram represents interactions of particles. Consider Lacan’s famous diagram of the Gaze. Foster elaborates on it to say that the “screen mediates the object-gaze for the subject” and “tames it as an image”. The image-screen is a dual interaction of the object and the subject, which sits in for our generalized causal interaction. Krauss defines an Index as “the marks or traces of a particular cause, and that cause is the [&hellip;] object they signify”. I then see the Index as the causal image-screen, which Krauss prototypes through photography. This is expressed as the image of the chair in <em>OaTC</em>.</p>
-
-<p>Thus, in <em>OaTC</em> we get an interesting representation of a Real object which emerges through a depiction of actualization (the chair), virtualization (the definition), and causation (the image). This Emergence is indicative of objects as Assemblages for DeLanda. Harman notes that “at whatever point we fix our gaze, entities are assembled from other entities: they can be viewed as unified things when seen from the outside, yet they are always pieced together from a vast armada of autonomous components.” Autonomy means that these Assemblages are “irreducible to their functions”, and Emergence implies they are “irreducible to pieces”.</p>
-
-<p>In particular I find this Realist philosophy to be a good basis for ethics in my artistic practice. This belief stems from the “obvious result” of “a certain form of panpsychism” (Harman) from DeLanda’s philosophy. When I consider that Harman’s OOO was first set up in opposition to Heidegger, and that Heidegger was a known member of the Nazi party, I find it hard to deny the inherent racism embedded in a privileged Correlationism through the Dasein. I see OOO as a way to avoid these ideas of privileged consciousness and “flatten” the ontology of being to all objects equally. This allows for a perspective which treats humans, animals, and our environment as equally important and deserving of a voice.</p>
-
-<hr />
-
-<p>In <em>The Return of the Real</em>, Foster makes the claim that the abject art of the 90s is characterized by a return to the Real. However, this return is, obviously, mediated through the Abject rather than the Sublime. Both of these terms refer to things beyond representation, but the Abject implies a frantic attempt to remove the Real, while the Sublime implies a kind of satisfaction with the Real. By adopting a Realist philosophy, I have opted for the Sublime. To discuss the role of the Sublime with respect to a computer-centric world, I turn to the writings of Jon McCormack. In <em>Art, Emergence, and the Computational Sublime</em>, McCormack is concerned with generative art and the “computational sublime”, or when “interesting global behavior emerges from many local interactions” within a computation. He notes that “even though we cannot comprehend the process directly, we can experience it through a machine.” So although <em>OaTC</em> points towards a DeLandian Real object, perhaps the power of modern computers could be utilized for a further expression of an ethical, Realist form of art. However, McCormack notes that this computational sublime is only achievable through autopoesis and that “the artist is obliged to acknowledge that control must really be relinquished.”</p>
-
-<p>In <em>Algorithmic Allure</em>, building on top of Harman and DeLanda, Robert Jackson further develops the algorithm as a “realist contingent force” because “most image generation algorithms do not specify one image, but a large (often infinite) class of images”, which I would argue is due to the Virtual nature of the algorithm. In relation to algorithmic/generative art, Jackson also promotes the “the disinterest of the artist as producer”, in line with McCormack. Jackson uses John F. Simon Jr.’s piece <em>Every Icon</em>, an online Java applet featuring a 32x32 binary grid which cycles through every possible icon at the clock speed of a CPU, as the prototypical art algorithm. Each icon can be viewed as an Actualized Index of the Real set of all icons which has been Virtualized by the algorithm.</p>
-
-<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/31989783501/"><img src="https://farm1.staticflickr.com/601/31989783501_d41979590e.jpg" title="everyicon"></a></p>
-
-<hr />
-
-<p>I am currently interested in how this formalized generative art can be extended to create expansive and inclusive Realist virtual spaces and soundscapes in the sense described at the beginning of this section. Most of my art has focused on composited assemblages, in the sense of Rauschenberg, of renders of virtual spaces, photographs/videos/samples, and indices of algorithms. I often utilize physical/Actual and interactive elements, as well as both visual and aural components. Two works which exemplify this technique, though they do not fully embody an activist agenda, are the music video I made for Tsaik’s <em>Tehraj</em>, featured in The Creator’s Project, and my own track <em>Everyone Is Here (But It’s Just You and Me)</em> under the alias SUGARQUOTE, featured on the Moscow-based internet label Hyperboloid Records; both of which are elaborated on in my portfolio in the terms defined above.
-Through this process I attempt to demonstrate the irreducible nature of objects and promote a more ambiguous, panpsychic form of storytelling. My goal for this multiplicity is to promote perspectives and voices which are often oppressed and marginalized, including those of the environment, non-humans, or of minority communities.</p>
-
-<p>I am also intrigued by the ways culture related to these subjects permeates through and is transformed by the emergent online virtual space. Much of my work lives exclusively online, and incorporates a vast array of cultural symbols and movements into new and cohesive works which try to blend, rather than other, the myriad of emerging genres and aesthetics worldwide in a respectful and non-appropriative manner. I have found Jacolby Satterwhite’s <em>Reifying Desire</em> series to be an exceptional example of the potential of virtual assemblages of varying degrees of reality with the added potency of underground club music.</p>
-
-<p><a class="thumbnail" href="https://www.flickr.com/photos/136394409@N04/32068956296/"><img src="https://farm1.staticflickr.com/588/32068956296_670d592a00.jpg" title="satterwhite_03biennial04_1140"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Portfolio for MIT Media Lab 2016]]></title>
-    <link href="http://symbios.wiki/portfolio/MIT-Media-Lab/"/>
-    <updated>2016-12-01T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/portfolio/MIT-Media-Lab</id>
-    <content type="html"><![CDATA[<hr />
-
-<p><em>Borromean Resistance: Performance (X+1)</em>, <strong>2016</strong></p>
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/166763255?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<p>Borromean Resistance is a collaboration between Sarah Scott, Dorothy Lam, and myself. Performance (X+1) continued the work of Piece 1, proposing new models of activism as feedback in complex systems. It was a four-part interactive computing system that probes the intersection of technology, art, and activism. Drawing on the tension between the urgent need for political change called for in movements such as climate activism and the lure of abstraction in art, the installation engages the viewer in challenging questions about representation, efficacy and collective action. Three interactive stations allow the viewer to experience and critique different conceptual models of social and political action. As the fourth element, an open discussion explores the tensions between art and activism, abstraction versus action, futility versus utility, and digital versus analogue interaction. The show was largely inspired by the systems art movement and the work of Hans Haacke.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1612/26319653912_496856f8fe_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1612/26319653912_fc8791fba6_q.jpg" alt="DSC_3031" title="DSC_3031"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1595/26386060876_9fa1f117eb_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1595/26386060876_dc923244e9_q.jpg" alt="DSC_3072" title="DSC_3072"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1457/26386056736_7e3134bf7a_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1457/26386056736_53190953a5_q.jpg" alt="IMG_2204" title="IMG_2204"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1583/26139145600_a412b5a3e9_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1583/26139145600_abbd43d171_q.jpg" alt="IMG_2220" title="IMG_2220"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1478/26411978235_8781c08a5e_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1478/26411978235_e6d096e6de_q.jpg" alt="IMG_2228" title="IMG_2228"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1559/25807143864_3aae7b642e_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1559/25807143864_a0c242378e_q.jpg" alt="IMG_2263" title="IMG_2263"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1675/26139140490_52bd09ef9f_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1675/26139140490_a8e4503997_q.jpg" alt="IMG_2312" title="IMG_2312"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1718/26386046096_bcd9419ca2_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1718/26386046096_1f9abdaf65_q.jpg" alt="sarah cube small" title="sarah cube small"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm2.staticflickr.com/1469/25809214493_46efed7040_o.jpg" data-gall="myGallery"><img src="https://farm2.staticflickr.com/1469/25809214493_53015d032e_q.jpg" alt="12810187_3969370517465_515874695_o" title="12810187_3969370517465_515874695_o"></a></li>
-    </ul>
-  </div>
-</div>
-
-
-<hr />
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/190726475?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<p>Inspired by Brancusi&rsquo;s infamous &ldquo;Bird In Space&rdquo;, <a href="https://www.instagram.com/birds_without_space/">@birds_without_space</a> represents the 9 most &ldquo;evolutionarily distinct and globally endangered&rdquo; avian species in the world due to human-related habitat loss. (You can check out <a href="http://www.edgeofexistence.org/birds/">edgeofexistence.org</a> for their complete list of species). The accompanying video piece seeks to explore the banality of such ecological horrors by flattening the traditional sculpture into a 3D render synthesizing some the largest contributors of habitat loss for these birds.</p>
-
-<p>The images and video in the piece are all cropped at 4x5 ratio and rotated 90 degrees which maximizes the amount of space media can take up on Instagram. In choosing Instagram as the platform and framing the piece in this way I hope to provide these birds with the maximum amount of virtual space where they can repopulate symbolically through the sharing of their image. By appropriating the medium of hyper-real renderings most often used in architecture/realty and advertising, I hope to subvert these practices which allow profiting from the exploitation of land.</p>
-
-<hr />
-
-<p>SUGARQUOTE - <em>Everyone Is Here (But It&rsquo;s Just You and Me)</em>, <strong>2016</strong></p>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F247584071&amp;show_comments=true&amp;show_playcount=true&amp;"></iframe>
-
-
-<p>Using a set of samples I collected from a friend, I created a synth in Ableton which was capable of playing any phoneme in the English language using note velocity and wrote this track with that synth.</p>
-
-<p>Isomov - <em>Interlude</em>, <strong>2014</strong></p>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221728842%3Fsecret_token%3Ds-pUUSk&amp;show_comments=false&amp;show_playcount=false&amp;"></iframe>
-
-
-<p>This track features a duet with Alessandro Moreschi, the only castrato to ever be recorded, and Radu Marian, a contemporary male soprano who suffers from a hormonal deficiency, singing Ave Maria together.</p>
-
-<hr />
-
-<p><em>Tsaik - Tehraj (Music Video)</em>, <strong>2015</strong></p>
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/147827031?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<p>Tsaik’s production is an interesting mix of self-sampling, sound synthesis, and intense recomposition - a sort of simulated jazz. To complement their rich production techniques and natural feel, I wanted to create a layered world featuring nature, generative organisms, and self-reflective video effects - a sort of simulated Ernst Haeckel. I settled on the use of stock footage of nature (some photographed by tsaik), plant-like L-systems, datamoshing , and 3D models of kaleidoscopes.</p>
-
-<p>I’m personally interested in the speculative realist perspective on virtual realities: how juxtaposing the virtual and the actual can allow us to face the Real and encounter the sublime. With that in mind, I appreciate generative art for its ability to create lifelike artistic organisms through simulation and its relation to the computational sublime.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/697/22135868008_e7c8ff6865_o.png" data-gall="myGallery"><img src="https://farm1.staticflickr.com/697/22135868008_6e98d23b88_q.jpg" alt="ice sculpture0138" title="ice sculpture0138"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/691/23142622063_b6aa2d6283_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/691/23142622063_5d61486646_q.jpg" alt="bird data vegs0093" title="bird data vegs0093"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/756/23473730220_4c78c81827_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/756/23473730220_a23bbbaecf_q.jpg" alt="tsaik tree grow0300" title="tsaik tree grow0300"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/666/23141234664_22f11428e9_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/666/23141234664_82a2531d69_q.jpg" alt="tsaik mountain mosh0105" title="tsaik mountain mosh0105"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/640/23686982731_c3cfbeb4e8_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/640/23686982731_69d2f0df45_q.jpg" alt="tsaik chair mosh0000" title="tsaik chair mosh0000"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/717/23141225954_683382cacb_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/717/23141225954_8e14e1b606_q.jpg" alt="tsaik_cello0090" title="tsaik_cello0090"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5835/23743494426_95f3ca9afd_o.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5835/23743494426_3d2fc1b011_q.jpg" alt="tsaik_cello0000" title="tsaik_cello0000"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/754/23473708140_6331d1c6bb_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/754/23473708140_eb4970e846_q.jpg" alt="tsaik_cube_still0240" title="tsaik_cube_still0240"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5734/23473704340_fa9b0c8bea_o.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5734/23473704340_7b689de8c8_q.jpg" alt="tsaik_cube_tv0244" title="tsaik_cube_tv0244"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/583/23141210614_7725e5ac1f_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/583/23141210614_1a8b90b28c_q.jpg" alt="tsaik_venus_dolly0014" title="tsaik_venus_dolly0014"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/713/23141203334_fac9f965d7_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/713/23141203334_3f743295c8_q.jpg" alt="tsaik_tree_zoom0175" title="tsaik_tree_zoom0175"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/602/23660888322_da5d9837ac_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/602/23660888322_99ef9056d7_q.jpg" alt="tsaik_room_zoom0175" title="tsaik_room_zoom0175"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5686/23141194904_277b950356_o.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5686/23141194904_2a71f51224_q.jpg" alt="tsaik_kitchen_zoom0300" title="tsaik_kitchen_zoom0300"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/674/23687006341_ecdc2110a6_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/674/23687006341_ddca030f3c_q.jpg" alt="leaf test 2_2702" title="leaf test 2_2702"></a></li>
-    </ul>
-  </div>
-</div>
-
-
-<hr />
-
-<p><em>All Natural VR</em>, <strong>2016</strong></p>
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/162810074?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<p>In this piece I wanted to explore the natural sublime through the works of Ansel Adams in the context of our cultural shift from the actual to the virtual. How does the juxtaposition of actual nature and virtual nature alter your perception of both? I devised a world where residents lived in a virtual world which had chosen a framework of property ownership that did not allow objects to be deleted, and required upkeep to stimulate their manufacturing-based virtual economy. The world soon become littered with objects and poverty just as in actual capitalist societies. As residents become more horrified with the utopia they had chosen, companies were founded to meet the market demand for a return to actual nature. Thus ironically, All Natural VR arose.</p>
-
-<hr />
-
-<p><em>Brownstone Tutors Website</em>, <strong>2015-Present</strong></p>
-
-<p>This website uses a from-scratch custom Django CMS. The screenshots below are from my test server to protect user privacy. Since March the website has been used to generate $1.5 million in revenue and is used every month by over sixty tutors.  Multiple open-source projects were contributed to during the development of the site, which can be seen throughout my <a href="https://github.com/nwaxiomatic">Github account</a>.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5461/30546670254_d9b0fcb3d9_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5461/30546670254_d85f9b6d45_q.jpg" alt="Screen Shot 2016-12-01 at 12.27.26 PM" title="Screen Shot 2016-12-01 at 12.27.26 PM"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5608/31224161682_922aa0261c_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5608/31224161682_7e685926cc_q.jpg" alt="Screen Shot 2016-12-01 at 12.27.31 PM" title="Screen Shot 2016-12-01 at 12.27.31 PM"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5528/30546670644_26d803f5a5_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5528/30546670644_56e94858dc_q.jpg" alt="Screen Shot 2016-12-01 at 12.28.31 PM" title="Screen Shot 2016-12-01 at 12.28.31 PM"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5802/30546670874_dd81e7709e_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5802/30546670874_2deefeef45_q.jpg" alt="Screen Shot 2016-12-01 at 12.29.15 PM" title="Screen Shot 2016-12-01 at 12.29.15 PM"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5685/31224163812_f12cbeb454_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5685/31224163812_971389a985_q.jpg" alt="Screen Shot 2016-12-01 at 12.28.53 PM" title="Screen Shot 2016-12-01 at 12.28.53 PM"></a></li>
-    </ul>
-  </div>
-</div>
-
-
-<hr />
-
-<p><em>Post Vision Website</em>, <strong>2016-Present</strong></p>
-
-<p><img src="https://farm6.staticflickr.com/5332/31224162652_18a98ff96f_b.jpg" class="page-feature-image" alt="Portfolio for MIT Media Lab 2016" itemprop="image"></p>
-
-<p>This website uses a customized Django/Wagtail CMS and a from-scratch single-page frontend using Backbone.js, Require.js, and custom video.js styling with designs from Emily Dubovoy. The demo site can be seen <a href="http://107.170.47.203/">here</a>.</p>
-
-<hr />
-
-<p><em>Multi-Scale Turing Patterns</em>, <strong>2014</strong></p>
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/143655094?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<p>These images were created using custom software in C++ utilizing the multi-scale turning algorithms published by Jonathan McCabe. I added modifications to the algorithm to allow coloring and new organic styles of generation.</p>
-
-<div class="row">
-  <div class="large-11 columns large-centered">
-    <ul class="clearing-thumbs thumbs" data-clearing>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/651/22155243949_26595cda79_o.png" data-gall="myGallery"><img src="https://farm1.staticflickr.com/651/22155243949_2c1c95953a_q.jpg" alt="25" title="25"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5738/21719398754_ece2303274_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5738/21719398754_b06d67ee59_q.jpg" alt="turingflipped12" title="turingflipped12"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/733/22342127515_470196c8bb_o.png" data-gall="myGallery"><img src="https://farm1.staticflickr.com/733/22342127515_b265ce83a3_q.jpg" alt="submission" title="submission"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5664/22155268119_48eb58e8f8_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5664/22155268119_c88c648ec7_q.jpg" alt="kcolort1" title="kcolort1"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5635/22352770511_a599deb2a0_o.png" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5635/22352770511_efae853715_q.jpg" alt="turing3" title="turing3"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm6.staticflickr.com/5679/22329105622_e0a05f2a44_o.jpg" data-gall="myGallery"><img src="https://farm6.staticflickr.com/5679/22329105622_f32a61eccb_q.jpg" alt="hue_mod_138" title="hue_mod_138"></a></li>
-      <li><a class="venobox vbox-item th" href="https://farm1.staticflickr.com/669/22154404688_de4f5be643_o.jpg" data-gall="myGallery"><img src="https://farm1.staticflickr.com/669/22154404688_3b8e171381_q.jpg" alt="hue_mod_21430" title="hue_mod_21430"></a></li>
-    </ul>
-  </div>
-</div>
-
-
-<hr />
-
-<p><em>DIE YUPPIE SCUM</em> and other works, <strong>2016</strong></p>
-
-<p><a class="venobox" data-gall="myGallery4" href="https://farm6.staticflickr.com/5831/30362540065_55f6f5b5c7_o.jpg" >
-<img src="https://farm6.staticflickr.com/5831/30362540065_7cd16a4b33_b.jpg" alt="teaser" itemprop="image"></a></p>
-
-<p>This render synthesizes ideas of gentrification and manifest destiny in relation to the space colonization (foot) and differential growth (hand) algorithms using Houdini, Cinema4D, and Octane Render. I believe generative art and algorithms are a ripe area of expression for exploring the future role of automation technology in society.</p>
-
-<p><strong>For more visual work please</strong> <a href="http://symbios.wiki/visual"><em>see here</em></a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ny Is Killin Me]]></title>
-    <link href="http://symbios.wiki/visual/ny-is-killin-me/"/>
-    <updated>2016-11-20T00:00:00-05:00</updated>
-    <id>http://symbios.wiki/visual/ny-is-killin-me</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

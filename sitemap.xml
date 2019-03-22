@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://symbios.wiki/visual/Galtier-Jade/</loc>
+    <lastmod>2019-03-01T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Braid-Font/</loc>
+    <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Perfection/</loc>
+    <lastmod>2019-02-10T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Beshken-Text/</loc>
+    <lastmod>2019-01-28T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Zen/</loc>
+    <lastmod>2018-07-28T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/Holo-Sunglasses/</loc>
+    <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://symbios.wiki/visual/Galtier/</loc>
     <lastmod>2018-06-10T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -262,49 +292,49 @@
   </url>
   <url>
     <loc>http://symbios.wiki/physical/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/code/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/cv/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/aural/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/visual/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://symbios.wiki/portfolio/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://symbios.wiki/blog/</loc>
-    <lastmod>2018-06-03T21:43:29-04:00</lastmod>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/</loc>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/aural/</loc>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/cv/</loc>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/visual/</loc>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://symbios.wiki/portfolio/</loc>
+    <lastmod>2019-03-22T13:02:34-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
